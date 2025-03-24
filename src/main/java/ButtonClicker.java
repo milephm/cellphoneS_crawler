@@ -28,6 +28,7 @@ public class ButtonClicker {
             for (WebElement button : buttons) {
                 try {
                     if (!button.getText().trim().isEmpty()) {
+                        Thread.sleep(1500);
                         js.executeScript("arguments[0].click()", button);
                         clicked = true;
                     }

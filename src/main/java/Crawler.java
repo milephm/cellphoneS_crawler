@@ -27,7 +27,7 @@ public class Crawler {
                 // doc.select("div[class*=grid-cols-2][class*=gap-2] div[class*=ProductCard_brandCard__VQQT8]") /* fpt */
         );
 
-        Set<String> crawledProductNames = new HashSet<>();
+        //Set<String> crawledProductNames = new HashSet<>();
 
         for (Element product : products) {
             String name = "";
