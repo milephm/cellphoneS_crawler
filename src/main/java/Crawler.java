@@ -3,8 +3,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-import java.util.HashSet;
-import java.util.Set;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -37,11 +35,16 @@ public class Crawler {
                 name = titleElements.text();
             }
 
-/*            if (crawledProductNames.contains(name)) {
+           /*if (crawledProductNames.contains(name)) {
                 continue;
             }
-            crawledProductNames.add(name);
-*/
+            crawledProductNames.add(name);*/
+            String link ="";
+            Elements linkElements = product.select("a[class*=product__link]");
+            if (!linkElements.isEmpty()) {
+                link = linkElements.attr("href"); // Get the href attribute (product URL)
+            }
+
             int price = 0;
             try {
                 Elements priceElements = product.select("p[class*=product__price--show]"); /* cellphoneS */
@@ -55,7 +58,7 @@ public class Crawler {
                 System.err.println("Error parsing price: " + e.getMessage());
             }
 
-            productInfo.add(new Pair(name, price));
+            productInfo.add(new Pair(name, link, price));
         }
     }
     public static void sortData(List<Pair> productInfo){
@@ -71,17 +74,17 @@ public class Crawler {
     }
     public static void showData(List<Pair> productInfo){
         for (Pair pair : productInfo) {
-            System.out.println(pair.getName() + ": " + pair.getPrice());
+            System.out.println(pair.getName() + ": " + pair.getPrice() + " | " + pair.getLink());
         }
     }
-    public static void exportCSV(List<Pair> productInfo, String filename) throws IOException{
+    public static void exportJSON(List<Pair> productInfo, String filename) throws IOException{
         List<String[]> list = new ArrayList<>();
         for (Pair info: productInfo){
-            String[] record = {info.getName(), String.valueOf(info.getPrice())};
+            String[] record = {info.getName(), info.getLink(), String.valueOf(info.getPrice())};
             list.add(record);
         }
-        CSVExporter csv = new CSVExporter(list);
-        String[] title = {"Product name", "Price"};
-        csv.writeCSV(title, filename);
+        JSONExporter json = new JSONExporter(productInfo);
+        String[] title = {"Product name", "Link", "Price"};
+        json.writeJSON(filename);
     }
 }
