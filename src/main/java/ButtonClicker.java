@@ -12,13 +12,14 @@ public class ButtonClicker {
     }
 
     public void execute() {
-        driver.get("https://cellphones.com.vn/mobile/apple.html"); // Replace with the actual URL
+        driver.get("https://cellphones.com.vn/mobile/apple.html"); // Replace with the URL of choice
         JavascriptExecutor js = (JavascriptExecutor) driver;
 
         while (true) {
             js.executeScript("window.scrollBy(0,3000)");
 
-            List<WebElement> buttons = driver.findElements(By.cssSelector("[class*='button__show-more-product']"));
+            List<WebElement> buttons = driver.findElements(By.cssSelector("[class*='btn-show-more button__show-more-product']")); /* cellphoneS */
+            // List<WebElement> buttons = driver.findElements(By.cssSelector("[class*='border border-iconDividerOnWhite px-4 py-2']")); /* fpt */
             if (buttons.isEmpty()) {
                 break;
             }
@@ -29,7 +30,6 @@ public class ButtonClicker {
                     if (!button.getText().trim().isEmpty()) {
                         js.executeScript("arguments[0].click()", button);
                         clicked = true;
-                        System.out.println("Clicked button");
                     }
                 } catch (Exception e) {
                     System.out.println("Failed to click button: " + e.getMessage());
