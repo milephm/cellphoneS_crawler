@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -50,7 +51,6 @@ public class Crawler {
                 Elements priceElements = product.select("p[class*=product__price--show]"); /* cellphoneS */
                 // Elements priceElements = product.select("p[class*=Price_currentPrice]"); /* fpt */
                 if (!priceElements.isEmpty()) {
-                    // Change regex for each website to correctly parse integer
                     String priceText = priceElements.text().replaceAll("[.đ\\s]", "");
                     price = Integer.parseInt(priceText);
                 }
@@ -77,14 +77,22 @@ public class Crawler {
             System.out.println(pair.getName() + ": " + pair.getPrice() + " | " + pair.getLink());
         }
     }
-    public static void exportJSON(List<Pair> productInfo, String filename) throws IOException{
-        List<String[]> list = new ArrayList<>();
-        for (Pair info: productInfo){
-            String[] record = {info.getName(), info.getLink(), String.valueOf(info.getPrice())};
-            list.add(record);
+    public static void exportJSON(List<Pair> productInfo, String filename) throws IOException {
+        List<Object> infoList = new ArrayList<>();
+        for (Pair info : productInfo) {
+            infoList.add(Map.of(
+                    "name", info.getName(),
+                    "price", info.getPrice()
+            ));
         }
-        JSONExporter json = new JSONExporter(productInfo);
-        String[] title = {"Product name", "Link", "Price"};
-        json.writeJSON(filename);
+
+        List<String> linkList = new ArrayList<>();
+        for (Pair info : productInfo) {
+            linkList.add(info.getLink());
+        }
+
+        JSONExporter jsonExporter = new JSONExporter();
+        jsonExporter.writeJSON(productInfo, filename + "_info");
+        jsonExporter.writeJSON(linkList, filename + "_links");
     }
 }
