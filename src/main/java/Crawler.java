@@ -23,29 +23,32 @@ public class Crawler {
         Document doc = Jsoup.parse(driver.getPageSource());
 
         ArrayList<Element> products = new ArrayList<>(
-                // doc.select("div[class*=grid-cols-2][class*=gap-2] div[class*=ProductCard_brandCard__VQQT8]")
-                doc.select("div[class*=product-info-container product-item]")
+                doc.select("div[class*=product-info-container product-item]") /* cellphoneS */
+                // doc.select("div[class*=grid-cols-2][class*=gap-2] div[class*=ProductCard_brandCard__VQQT8]") /* fpt */
         );
 
-        Set<String> crawledProductNames = new HashSet<>();
+        //Set<String> crawledProductNames = new HashSet<>();
 
         for (Element product : products) {
             String name = "";
-            Elements titleElements = product.select("div[class*=product__name]");
+            Elements titleElements = product.select("div[class*=product__name]"); /* cellphoneS */
+            // Elements titleElements = product.select("h3[class*=ProductCard_cardTitle]"); /* fpt */
             if (!titleElements.isEmpty()) {
                 name = titleElements.text();
             }
 
-            if (crawledProductNames.contains(name)) {
+/*            if (crawledProductNames.contains(name)) {
                 continue;
             }
             crawledProductNames.add(name);
-
+*/
             int price = 0;
             try {
-                Elements priceElements = product.select("p[class*=product__price--show]");
+                Elements priceElements = product.select("p[class*=product__price--show]"); /* cellphoneS */
+                // Elements priceElements = product.select("p[class*=Price_currentPrice]"); /* fpt */
                 if (!priceElements.isEmpty()) {
-                    String priceText = priceElements.text().replaceAll("[.đ\\s]", "");  // This will remove all periods, "đ", and spaces
+                    // Change regex for each website to correctly parse integer
+                    String priceText = priceElements.text().replaceAll("[.đ\\s]", "");
                     price = Integer.parseInt(priceText);
                 }
             } catch (NumberFormatException e) {
