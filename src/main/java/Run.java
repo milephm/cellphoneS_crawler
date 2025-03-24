@@ -16,7 +16,8 @@ public class Run {
         crawler.crawlData(list);
         Crawler.sortData(list);
         Crawler.showData(list);
-        Crawler.exportCSV(list, "Products");
+        Crawler.exportJSON(list, "Products");
 
+        driver.quit();
     }
 }
