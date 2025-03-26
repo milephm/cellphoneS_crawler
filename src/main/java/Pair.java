@@ -1,13 +1,20 @@
-public class Pair 
+import java.util.HashMap;
+import java.util.Map;
+
+public class Pair
 {
     private String name;
     private String link;
     private Integer price;
+    private final Map<String, String> description;
+
     public Pair(String name, String link, Integer price) {
         this.name = name;
         this.link = link;
         this.price = price;
+        this.description = new HashMap<>();
     }
+
     public void setName(String name) {
         this.name = name;
     }
@@ -17,6 +24,10 @@ public class Pair
     public void setPrice(Integer price) {
         this.price = price;
     }
+    public void setDescription(String key, String value) {
+        this.description.put(key, value);
+    }
+
     public String getName() {
         return name;
     }
@@ -25,5 +36,8 @@ public class Pair
     }
     public Integer getPrice() {
         return price;
+    }
+    public Map<String, String> getDescription() {
+        return description;
     }
 }
