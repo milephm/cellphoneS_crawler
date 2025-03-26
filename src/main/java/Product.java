@@ -1,14 +1,14 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Pair
+public class Product
 {
     private String name;
     private String link;
     private Integer price;
     private final Map<String, String> description;
 
-    public Pair(String name, String link, Integer price) {
+    public Product(String name, String link, Integer price) {
         this.name = name;
         this.link = link;
         this.price = price;

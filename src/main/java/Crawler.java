@@ -17,7 +17,7 @@ public class Crawler {
         this.driver = driver;
     }
 
-    public void crawlData(List<Pair> productInfo) throws Exception {
+    public void crawlData(List<Product> productInfo) throws Exception {
         String currentUrl = driver.getCurrentUrl();
         Document doc = Jsoup.parse(driver.getPageSource());
 
@@ -33,13 +33,9 @@ public class Crawler {
             Elements titleElements = product.select("div[class*=product__name]"); /* cellphoneS */
             // Elements titleElements = product.select("h3[class*=ProductCard_cardTitle]"); /* fpt */
             if (!titleElements.isEmpty()) {
-                name = titleElements.text();
+                name = titleElements.text().replace(" | Chính hãng VN/A", "");
             }
 
-           /*if (crawledProductNames.contains(name)) {
-                continue;
-            }
-            crawledProductNames.add(name);*/
             String link ="";
             Elements linkElements = product.select("a[class*=product__link]");
             if (!linkElements.isEmpty()) {
@@ -58,13 +54,13 @@ public class Crawler {
                 System.err.println("Error parsing price: " + e.getMessage());
             }
 
-            productInfo.add(new Pair(name, link, price));
+            productInfo.add(new Product(name, link, price));
         }
     }
-    public static void sortData(List<Pair> productInfo){
-        Collections.sort(productInfo, new Comparator<Pair>() {
+    public static void sortData(List<Product> productInfo){
+        Collections.sort(productInfo, new Comparator<Product>() {
             @Override
-            public int compare(Pair o1, Pair o2) {
+            public int compare(Product o1, Product o2) {
                 if(o1.getName().compareTo(o2.getName()) != 0){
                     return o2.getName().compareTo(o1.getName());
                 }
@@ -72,14 +68,14 @@ public class Crawler {
             }
         });
     }
-    public static void showData(List<Pair> productInfo){
-        for (Pair pair : productInfo) {
-            System.out.println(pair.getName() + ": " + pair.getPrice() + " | " + pair.getLink());
+    public static void showData(List<Product> productInfo){
+        for (Product product : productInfo) {
+            System.out.println(product.getName() + ": " + product.getPrice() + " | " + product.getLink());
         }
     }
-    public static void exportJSON(List<Pair> productInfo, String filename) throws IOException {
+    public static void exportJSON(List<Product> productInfo, String filename) throws IOException {
         List<Object> infoList = new ArrayList<>();
-        for (Pair info : productInfo) {
+        for (Product info : productInfo) {
             infoList.add(Map.of(
                     "name", info.getName(),
                     "price", info.getPrice()
@@ -87,7 +83,7 @@ public class Crawler {
         }
 
         List<String> linkList = new ArrayList<>();
-        for (Pair info : productInfo) {
+        for (Product info : productInfo) {
             linkList.add(info.getLink());
         }
 
