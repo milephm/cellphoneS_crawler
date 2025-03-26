@@ -10,24 +10,22 @@ public class Run2 {
     public static void main(String[] args) {
         try {
             List<String> urls = JSONReader.getUrls("./Products_links.json");
+
+            // chrome options are optional to optimize run time
             ChromeOptions options = new ChromeOptions();
             options.addArguments(Arrays.asList(
                     "--no-sandbox",
                     "--disable-setuid-sandbox",
                     "--disable-blink-features=AutomationControlled",
                     "--disable-infobars",
-                    "--window-position=0,0",
-                    "--window-size=1920,1080",
                     "--ignore-certifcate-errors",
                     "--ignore-certifcate-errors-spki-list",
                     "--disable-extensions",
-                    "--start-maximized",
                     "--incognito",
                     "--disable-dev-shm-usage",
                     "--disable-accelerated-2d-canvas",
                     "--no-first-run",
                     "--no-zygote",
-                    "--mute-audio",
                     "--devtools-flags=disable",
                     "--lang=en",
 
@@ -41,7 +39,6 @@ public class Run2 {
                     "--force-device-scale-factor",
 
                     "--allow-running-insecure-content",
-                    "--window-position=000,000",
                     "--disable-speech-api",
                     "--disable-background-networking",
                     "--disable-background-timer-throttling",
