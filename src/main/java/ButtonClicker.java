@@ -7,39 +7,33 @@ import java.util.List;
 public class ButtonClicker {
     private WebDriver driver;
 
-    public ButtonClicker(WebDriver driver) {
+    String selector;
+
+    public ButtonClicker(WebDriver driver, String selector) {
         this.driver = driver;
+        this.selector = selector;
     }
 
-    public void execute() {
-        driver.get("https://cellphones.com.vn/mobile/apple.html"); // Replace with the URL of choice
+    public boolean execute() {
         JavascriptExecutor js = (JavascriptExecutor) driver;
 
-        while (true) {
-            js.executeScript("window.scrollBy(0,3000)");
+        List<WebElement> buttons = driver.findElements(By.cssSelector(selector));
+        if (buttons.isEmpty()) {
+            return false;
+        }
 
-            List<WebElement> buttons = driver.findElements(By.cssSelector("[class*='btn-show-more button__show-more-product']")); /* cellphoneS */
-            // List<WebElement> buttons = driver.findElements(By.cssSelector("[class*='border border-iconDividerOnWhite px-4 py-2']")); /* fpt */
-            if (buttons.isEmpty()) {
-                break;
-            }
-
-            boolean clicked = false;
-            for (WebElement button : buttons) {
-                try {
-                    if (!button.getText().trim().isEmpty()) {
-                        Thread.sleep(1500);
-                        js.executeScript("arguments[0].click()", button);
-                        clicked = true;
-                    }
-                } catch (Exception e) {
-                    System.out.println("Failed to click button: " + e.getMessage());
+        boolean clicked = false;
+        for (WebElement button : buttons) {
+            try {
+                if (!button.getText().trim().isEmpty()) {
+                    js.executeScript("arguments[0].click()", button);
+                    clicked = true;
                 }
-            }
-
-            if (!clicked) {
-                break;
+            } catch (Exception e) {
+                System.out.println("Failed to click button: " + e.getMessage());
             }
         }
+
+        return clicked;
     }
 }
