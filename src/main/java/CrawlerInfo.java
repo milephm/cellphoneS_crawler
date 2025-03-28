@@ -8,11 +8,10 @@ import java.util.Map;
 import java.util.LinkedHashMap;
 import java.util.ArrayList;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class Crawler2 {
+public class CrawlerInfo {
     private static final List<Map<String, String>> productsData = new ArrayList<>();
 
     public static void crawl(WebDriver driver, String url) {
@@ -25,9 +24,9 @@ public class Crawler2 {
         // example: extract title
         String title = (driver.findElement(By.className("box-product-name"))).getDomProperty("textContent");
         if(title != null) {
-           title = title.replace("| Chính hãng VN/A ", "");
-           title = title.trim();
-           productData.put("name", title);
+            title = title.replace(" | Chính hãng VN/A ", "");
+            title = title.trim();
+            productData.put("name", title);
         }
         try {
             // ((JavascriptExecutor) driver).executeScript("window.scrollTo(0, document.body.scrollHeight/3);");
