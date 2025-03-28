@@ -80,7 +80,7 @@ public class Run2 {
             WebDriver driver = new ChromeDriver(options);
 
             for (String url : urls) {
-                Crawler2.crawl(driver, url);
+                CrawlerInfo.crawl(driver, url);
             }
 
             driver.quit();
