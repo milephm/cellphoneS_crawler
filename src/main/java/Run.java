@@ -76,7 +76,7 @@ public class Run {
 
         WebDriver driver = new ChromeDriver(options);
 
-        driver.get("https://cellphones.com.vn/mobile.html"); // Replace with the URL of choice
+        driver.get("https://cellphones.com.vn/mobile/apple.html"); // Replace with the URL of choice
         JavascriptExecutor js = (JavascriptExecutor) driver;
 
         while (true) {
