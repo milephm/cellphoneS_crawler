@@ -6,13 +6,13 @@ public class Product
     private String name;
     private String link;
     private Integer price;
-    private final Map<String, String> description;
+    //private final Map<String, String> description;
 
     public Product(String name, String link, Integer price) {
         this.name = name;
         this.link = link;
         this.price = price;
-        this.description = new HashMap<>();
+        //this.description = new HashMap<>();
     }
 
     public void setName(String name) {
@@ -24,9 +24,9 @@ public class Product
     public void setPrice(Integer price) {
         this.price = price;
     }
-    public void setDescription(String key, String value) {
-        this.description.put(key, value);
-    }
+//    public void setDescription(String key, String value) {
+//        this.description.put(key, value);
+//    }
 
     public String getName() {
         return name;
@@ -37,7 +37,7 @@ public class Product
     public Integer getPrice() {
         return price;
     }
-    public Map<String, String> getDescription() {
-        return description;
-    }
+//    public Map<String, String> getDescription() {
+//        return description;
+//    }
 }
