@@ -76,7 +76,7 @@ public class Run {
 
         WebDriver driver = new ChromeDriver(options);
 
-        driver.get("https://cellphones.com.vn/mobile/apple.html"); // Replace with the URL of choice
+        driver.get("https://cellphones.com.vn/mobile.html"); // Replace with the URL of choice
         JavascriptExecutor js = (JavascriptExecutor) driver;
 
         while (true) {
@@ -94,7 +94,6 @@ public class Run {
 
         List<Product> list = new ArrayList<>();
         crawler.crawlData(list);
-        Crawler.sortData(list);
         Crawler.showData(list);
         Crawler.exportJSON(list, "Products");
 
