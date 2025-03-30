@@ -1,4 +1,5 @@
 import java.io.*;
+import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
@@ -8,9 +9,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 
 public class Crawler {
     private final WebDriver driver;
@@ -22,7 +21,7 @@ public class Crawler {
         String currentUrl = driver.getCurrentUrl();
         Document doc = Jsoup.parse(driver.getPageSource());
 
-        String savePath = "downloaded_images";
+        String savePath = "assets\\products";
 
         ArrayList<Element> products = new ArrayList<>(
                 doc.select("div[class*=product-info-container product-item]") /* cellphoneS */
@@ -38,18 +37,6 @@ public class Crawler {
             if (!titleElements.isEmpty()) {
                 name = titleElements.text().replace(" | Chính hãng VN/A", "");
                 name = name.trim();
-            }
-
-            // get image
-            Elements img_elements = product.select("div.product__image img.product__img");
-            String imgUrl = img_elements.attr("src");
-
-            String imgName = name.replaceAll("[^a-zA-Z0-9.-]", "_") + ".png";
-            String imgPath = savePath + "/" + imgName;
-            try {
-                downloadImage(imgUrl, imgPath);
-            } catch (IOException e) {
-                throw new RuntimeException(e);
             }
 
             String link ="";
@@ -70,17 +57,23 @@ public class Crawler {
                 System.err.println("Error parsing price: " + e.getMessage());
             }
 
+            // add info
             productInfo.add(new Product(name, link, price));
+
+            // get image
+            Elements img_elements = product.select("div.product__image img.product__img");
+            String imgUrl = img_elements.attr("src");
+
+            String imgName = name.replaceAll("[^a-zA-Z0-9.-]", "_") + ".png";
+            String imgPath = savePath + "/" + imgName;
+            try {
+                downloadImage(imgUrl, imgPath);
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
         }
     }
-    public static void sortData(List<Product> productInfo){
-        productInfo.sort((o1, o2) -> {
-            if (o1.getName().compareTo(o2.getName()) != 0) {
-                return o2.getName().compareTo(o1.getName());
-            }
-            return o2.getPrice().compareTo(o1.getPrice());
-        });
-    }
+
     public static void showData(List<Product> productInfo){
         for (Product product : productInfo) {
             System.out.println(product.getName() + ": " + product.getPrice() + " | " + product.getLink());
@@ -106,9 +99,17 @@ public class Crawler {
     }
 
     public static void downloadImage(String imgUrl, String imgPath) throws IOException {
-        URL url = new URL(imgUrl);
+        HttpURLConnection connection = getHttpURLConnection(imgUrl);
 
-        try (InputStream in = url.openStream();
+        // check if connection was successful
+        int responseCode = connection.getResponseCode();
+        if (responseCode != 200) {
+            System.err.println("Failed to download image from " + imgUrl + ". Response code: " + responseCode);
+            return;
+        }
+
+        // download the file
+        try (InputStream in = connection.getInputStream();
              OutputStream out = new BufferedOutputStream(new FileOutputStream(imgPath))) {
             byte[] buffer = new byte[1024];
             int bytesRead;
@@ -116,5 +117,18 @@ public class Crawler {
                 out.write(buffer, 0, bytesRead);
             }
         }
+    }
+
+    private static HttpURLConnection getHttpURLConnection(String imgUrl) throws IOException {
+        URL url = new URL(imgUrl);
+
+        HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+        connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36");
+        connection.setRequestProperty("Referer", "https://cellphones.com.vn/");
+        connection.setRequestProperty("Accept", "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8");
+        connection.setConnectTimeout(5000);
+        connection.setReadTimeout(5000);
+        connection.setInstanceFollowRedirects(true);
+        return connection;
     }
 }
