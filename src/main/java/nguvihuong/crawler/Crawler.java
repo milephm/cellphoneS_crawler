@@ -1,3 +1,8 @@
+package nguvihuong.crawler;
+
+import nguvihuong.model.Product;
+import nguvihuong.utils.JSONExporter;
+
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -18,17 +23,17 @@ public class Crawler {
     }
 
     public void crawlData(List<Product> productInfo) {
-        String currentUrl = driver.getCurrentUrl();
+        // String currentUrl = driver.getCurrentUrl();
         Document doc = Jsoup.parse(driver.getPageSource());
 
-        String savePath = "assets\\products";
+        String savePath = "resources\\assets.products";
 
         ArrayList<Element> products = new ArrayList<>(
                 doc.select("div[class*=product-info-container product-item]") /* cellphoneS */
                 // doc.select("div[class*=grid-cols-2][class*=gap-2] div[class*=ProductCard_brandCard__VQQT8]") /* fpt */
         );
 
-        //Set<String> crawledProductNames = new HashSet<>();
+        // Set<String> crawledProductNames = new HashSet<>();
 
         for (Element product : products) {
             String name = "";
@@ -42,7 +47,7 @@ public class Crawler {
             String link ="";
             Elements linkElements = product.select("a[class*=product__link]");
             if (!linkElements.isEmpty()) {
-                link = linkElements.attr("href"); // Get the href attribute (product URL)
+                link = linkElements.attr("href");
             }
 
             int price = 0;
@@ -79,6 +84,7 @@ public class Crawler {
             System.out.println(product.getName() + ": " + product.getPrice() + " | " + product.getLink());
         }
     }
+
     public static void exportJSON(List<Product> productInfo, String filename) throws IOException {
         List<Object> infoList = new ArrayList<>();
         for (Product info : productInfo) {
@@ -129,6 +135,7 @@ public class Crawler {
         connection.setConnectTimeout(5000);
         connection.setReadTimeout(5000);
         connection.setInstanceFollowRedirects(true);
+
         return connection;
     }
 }

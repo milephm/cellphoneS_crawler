@@ -1,6 +1,10 @@
+package nguvihuong;
+
+import nguvihuong.crawler.CrawlerInfo;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import nguvihuong.utils.JSONReader;
 
 import java.io.IOException;
 import java.util.Arrays;
