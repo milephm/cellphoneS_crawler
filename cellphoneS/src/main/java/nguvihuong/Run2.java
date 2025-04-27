@@ -1,12 +1,14 @@
 package nguvihuong;
 
 import nguvihuong.crawler.CrawlerInfo;
+import nguvihuong.model.Product;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import nguvihuong.utils.JSONReader;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -82,9 +84,11 @@ public class Run2 {
                     "--disable-dev-shm-usage"));
 
             WebDriver driver = new ChromeDriver(options);
+            List<Product> list = new ArrayList<>();
 
             for (String url : urls) {
-                CrawlerInfo.crawl(driver, url);
+                CrawlerInfo.crawl(driver, url, list);
+                CrawlerInfo.exportToJson(list, "Products_info.json");
             }
 
             driver.quit();

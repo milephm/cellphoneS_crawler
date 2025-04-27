@@ -9,6 +9,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.LinkedHashMap;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -26,7 +27,7 @@ public class Crawler {
         // String currentUrl = driver.getCurrentUrl();
         Document doc = Jsoup.parse(driver.getPageSource());
 
-        String savePath = "resources\\assets.products";
+        String savePath = "D:\\study\\hust\\20242\\oop_project\\crawler\\cellphoneS\\src\\main\\resources\\assets\\products";
 
         ArrayList<Element> products = new ArrayList<>(
                 doc.select("div[class*=product-info-container product-item]") /* cellphoneS */
@@ -44,12 +45,14 @@ public class Crawler {
                 name = name.trim();
             }
 
+            // get link
             String link ="";
             Elements linkElements = product.select("a[class*=product__link]");
             if (!linkElements.isEmpty()) {
                 link = linkElements.attr("href");
             }
 
+            // get price
             int price = 0;
             try {
                 Elements priceElements = product.select("p[class*=product__price--show]"); /* cellphoneS */
@@ -62,8 +65,10 @@ public class Crawler {
                 System.err.println("Error parsing price: " + e.getMessage());
             }
 
+            Map<String, String> description = new LinkedHashMap<>();
+
             // add info
-            productInfo.add(new Product(name, link, price));
+            productInfo.add(new Product(name, link, price, description));
 
             // get image
             Elements img_elements = product.select("div.product__image img.product__img");

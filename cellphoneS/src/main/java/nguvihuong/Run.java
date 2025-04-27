@@ -1,7 +1,9 @@
 package nguvihuong;
 
 import nguvihuong.crawler.Crawler;
+import nguvihuong.crawler.CrawlerInfo;
 import nguvihuong.model.Product;
+import nguvihuong.utils.JSONReader;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -101,6 +103,19 @@ public class Run {
         crawler.crawlData(list);
         Crawler.showData(list);
         Crawler.exportJSON(list, "Products");
+
+        Thread.sleep(1500);
+        List<String> urls = JSONReader.getUrls("./Products_links.json");
+
+        for (String url : urls) {
+            try {
+                CrawlerInfo.crawl(driver, url, list);
+            } catch (Exception e) {
+                e.printStackTrace();
+                continue;
+            }
+            CrawlerInfo.exportToJson(list, "Products_info.json");
+        }
 
         driver.quit();
     }
