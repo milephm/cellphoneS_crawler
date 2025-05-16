@@ -1,0 +1,31 @@
+[ {
+  "name" : "Cloud Touch",
+  "link" : "https://www.gsmarena.com/inq_cloud_touch-3773.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/inq-cloud-touch.jpg",
+  "info" : { },
+  "brand" : "iNQ"
+}, {
+  "name" : "Cloud Q",
+  "link" : "https://www.gsmarena.com/inq_cloud_q-3772.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/inq-cloud-q.jpg",
+  "info" : { },
+  "brand" : "iNQ"
+}, {
+  "name" : "Chat 3G",
+  "link" : "https://www.gsmarena.com/inq_chat_3g-3000.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/inq-chat-3g.jpg",
+  "info" : { },
+  "brand" : "iNQ"
+}, {
+  "name" : "Mini 3G",
+  "link" : "https://www.gsmarena.com/inq_mini_3g-2998.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/inq-mini-3g.jpg",
+  "info" : { },
+  "brand" : "iNQ"
+}, {
+  "name" : "iNQ1",
+  "link" : "https://www.gsmarena.com/inq_inq1-2999.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/inq1.jpg",
+  "info" : { },
+  "brand" : "iNQ"
+} ]

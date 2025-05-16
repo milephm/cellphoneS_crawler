@@ -1,0 +1,3699 @@
+[ {
+  "name" : "Bold N3",
+  "link" : "https://www.gsmarena.com/blu_bold_n3-12603.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-bold-n3.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE / 5G",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 4, 5, 12, 13, 17, 25, 26, 41, 66, 71",
+    "5G bands" : "2, 5, 25, 41, 66, 71, 77 SA/NSA/Sub6",
+    "Speed" : "HSPA, LTE (CA), 5G",
+    "Announced" : "2023, July",
+    "Status" : "Available. Released 2023, August",
+    "Dimensions" : "164.2 x 74.7 x 8.8 mm (6.46 x 2.94 x 0.35 in)",
+    "Weight" : "180 g (6.35 oz)",
+    "Build" : "Glass front, aluminum frame, glass back",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 4700 mAh",
+    "Size" : "6.78 inches, 111.0 cm2 (~90.5% screen-to-body ratio)",
+    "Resolution" : "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+    "OS" : "Android 13",
+    "Chipset" : "Mediatek Dimensity 7050 (6 nm)",
+    "CPU" : "Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+    "GPU" : "Mali-G68 MC4",
+    "Card slot" : "No",
+    "Internal" : "256GB 8GB RAM",
+    " " : "UFS 3.1",
+    "Triple" : "50 MP, f/1.9, (wide), 1/1.55\", 1.0µm, PDAF\n8 MP, f/2.2, 112˚ (ultrawide)\n2 MP, f/2.4, (macro)",
+    "Features" : "Dual-LED flash, HDR, panorama",
+    "Video" : "4K@30fps, 1080p@30fps",
+    "Dual" : "16 MP, f/2.5, (wide), 1/3\", 1.0µm",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "No",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+    "Bluetooth" : "5.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "Yes",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0, OTG",
+    "Sensors" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Charging" : "66W wired, 100% in 39 min",
+    "Colors" : "Sage Green",
+    "Price" : "About 250 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G93",
+  "link" : "https://www.gsmarena.com/blu_g93-12460.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g93.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2023, June",
+    "Status" : "Available. Released 2023, July",
+    "Dimensions" : "168.7 x 76.7 x 9 mm (6.64 x 3.02 x 0.35 in)",
+    "Weight" : "210 g (7.41 oz)",
+    "Build" : "Glass front, aluminum frame, glass back",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.78 inches, 109.2 cm2 (~84.4% screen-to-body ratio)",
+    "Resolution" : "1080 x 2460 pixels (~396 ppi density)",
+    "OS" : "Android 13",
+    "Chipset" : "Mediatek Helio G99 (6 nm)",
+    "CPU" : "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU" : "Mali-G57 MC2",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 6GB RAM",
+    "Triple" : "50 MP, f/1.8, (wide), PDAF\n2 MP, f/2.4, (macro)\n0.3 MP, (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "13 MP, f/2.0",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth" : "5.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "Yes",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0, OTG",
+    "Sensors" : "Fingerprint (side-mounted), accelerometer, proximity, compass",
+    "Charging" : "18W wired",
+    "Colors" : "Black, Light Blue, Cream",
+    "Price" : "About 160 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G73",
+  "link" : "https://www.gsmarena.com/blu_g73-12459.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g73.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 38, 66, 71",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2023, June",
+    "Status" : "Available. Released 2023, June",
+    "Dimensions" : "168.3 x 78.8 x 9.9 mm (6.63 x 3.10 x 0.39 in)",
+    "Weight" : "210 g (7.41 oz)",
+    "Build" : "Glass front, plastic frame, eco leather back",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.8 inches, 111.6 cm2 (~84.2% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~258 ppi density)",
+    "OS" : "Android 13",
+    "CPU" : "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+    "GPU" : "Mali-G57 MP1",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 6GB RAM",
+    "Triple" : "50 MP, f/2.0, (wide)\n0.3 MP, (macro)\n0.3 MP, (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "8 MP, f/2.0",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n/ac, Wi-Fi Direct",
+    "Bluetooth" : "5.0, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer",
+    "Charging" : "18W wired",
+    "Colors" : "Blue, Grey, Orange, Burgundy",
+    "Price" : "About 140 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G63",
+  "link" : "https://www.gsmarena.com/blu_g63-12458.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g63.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66, 71",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2023, June",
+    "Status" : "Available. Released 2023, July",
+    "Dimensions" : "173 x 78 x 9.2 mm (6.81 x 3.07 x 0.36 in)",
+    "Weight" : "230 g (8.11 oz)",
+    "Build" : "Glass front, plastic frame, glass back",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.8 inches, 111.6 cm2 (~82.7% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~258 ppi density)",
+    "OS" : "Android 13",
+    "CPU" : "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+    "GPU" : "Mali-G57 MP1",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 4GB RAM",
+    "Dual" : "13 MP, f/2.0, (wide)\n0.3 MP, (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "8 MP, f/2.0",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n/ac, Wi-Fi Direct",
+    "Bluetooth" : "5.0, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (side-mounted), accelerometer",
+    "Colors" : "Pearl, Black, Green, Purple",
+    "Price" : "About 120 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G53",
+  "link" : "https://www.gsmarena.com/blu_g53-12457.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g53.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66, 71",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2023, June",
+    "Status" : "Available. Released 2023, July",
+    "Dimensions" : "164.8 x 75.8 x 8.9 mm (6.49 x 2.98 x 0.35 in)",
+    "Weight" : "200 g (7.05 oz)",
+    "Build" : "Glass front, plastic frame, plastic back",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~81.7% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 13",
+    "CPU" : "Quad-core (1x2.0 GHz Cortex-A75 & 3x1.8 GHz Cortex-A55)",
+    "GPU" : "IMG8322",
+    "Card slot" : "microSDXC",
+    "Internal" : "64GB 4GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "13 MP, f/2.0, (wide)\n0.3 MP, (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "8 MP, f/2.0",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n/ac, Wi-Fi Direct",
+    "Bluetooth" : "5.0, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (side-mounted), accelerometer",
+    "Colors" : "Pearl, Black, Green, Violet, White",
+    "Price" : "About 100 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G33",
+  "link" : "https://www.gsmarena.com/blu_g33-12456.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g33.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 1700 / 1900",
+    "4G bands" : "2, 4, 5, 12, 17, 66, 71",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2023, June",
+    "Status" : "Available. Released 2023, July",
+    "Dimensions" : "159.4 x 78.3 x 10.4 mm (6.28 x 3.08 x 0.41 in)",
+    "Weight" : "215 g (7.58 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Ion 3000 mAh, removable",
+    "Size" : "6.26 inches, 101.1 cm2 (~81.0% screen-to-body ratio)",
+    "Resolution" : "480 x 960 pixels, 18:9 ratio (~171 ppi density)",
+    "OS" : "Android 13 (Go edition)",
+    "CPU" : "Octa-core 1.6 GHz Cortex-A55",
+    "Card slot" : "microSDXC",
+    "Internal" : "16GB 2GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "5 MP, f/2.0\n0.3 MP",
+    "Features" : "LED flash",
+    "Video" : "1080p@30fps",
+    "Single" : "5 MP, f/2.0",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Black, Burgundy, Earthy, Green",
+    "Price" : "About 60 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "F92e",
+  "link" : "https://www.gsmarena.com/blu_f92e-12153.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-f92e-5g.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE / 5G",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 4, 5, 12, 13, 17, 25, 26, 41, 66, 71",
+    "5G bands" : "2, 5, 25, 41, 66, 71, 77 SA/NSA/Sub6",
+    "Speed" : "HSPA, LTE, 5G",
+    "Announced" : "2023, January 19",
+    "Status" : "Available. Released 2023, January 19",
+    "Dimensions" : "164.7 x 76 x 8.9 mm (6.48 x 2.99 x 0.35 in)",
+    "Weight" : "202 g (7.13 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~81.5% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 12",
+    "Chipset" : "Mediatek Dimensity 700 (7 nm)",
+    "CPU" : "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU" : "Mali-G57 MC2",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 4GB RAM",
+    "Triple" : "50 MP, f/1.8, (wide), PDAF\n2 MP, f/2.4, 115˚ (ultrawide)\n0.3 MP, f/2.4, (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "Yes",
+    "Single" : "13 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n/ac",
+    "Bluetooth" : "5.0, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (side-mounted), unspecified sensors",
+    "Charging" : "10W wired",
+    "Colors" : "Blue, Black, Lime",
+    "Price" : "About 190 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G72 Max",
+  "link" : "https://www.gsmarena.com/blu_g72_max-12110.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g72-max.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2023, February 04",
+    "Status" : "Available. Released 2023, February 04",
+    "Dimensions" : "168.3 x 78.8 x 9.9 mm (6.63 x 3.10 x 0.39 in)",
+    "Weight" : "209 g (7.37 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.8 inches, 111.6 cm2 (~84.2% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~258 ppi density)",
+    "OS" : "Android 12",
+    "Chipset" : "Mediatek MT6765 Helio G37 (12 nm)",
+    "CPU" : "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+    "GPU" : "PowerVR GE8320",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 4GB RAM",
+    "Triple" : "13 MP, (wide), AF\n2 other unspecified cameras",
+    "Features" : "LED flash",
+    "Video" : "1080p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth" : "5.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "Unspecified",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, proximity",
+    "Colors" : "Gray, Mint, Orange"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G52L",
+  "link" : "https://www.gsmarena.com/blu_g52l-12102.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g52l.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2023, January",
+    "Status" : "Available. Released 2023, February",
+    "Dimensions" : "164.5 x 76 x 9.2 mm (6.48 x 2.99 x 0.36 in)",
+    "Weight" : "195 g (6.88 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~81.6% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 12",
+    "CPU" : "Octa-core 1.6 GHz Cortex-A55",
+    "Card slot" : "microSDXC",
+    "Internal" : "64GB 2GB RAM",
+    " " : "eMMC 5.1",
+    "Triple" : "13 MP\n0.3 MP (macro)\n0.3 MP (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 а/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (side-mounted), accelerometer",
+    "Colors" : "Grey, Blue, Burgundy, Mint Blue",
+    "Price" : "About 90 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X5 Max",
+  "link" : "https://www.gsmarena.com/blu_studio_x5_max-11830.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x5-max.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA 21.1/5.76 Mbps",
+    "Announced" : "2022, July",
+    "Status" : "Available. Released 2022, July",
+    "Dimensions" : "164.7 x 76 x 8.9 mm (6.48 x 2.99 x 0.35 in)",
+    "Weight" : "202 g (7.13 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Ion 2700 mAh, removable",
+    "Size" : "5.7 inches, 83.8 cm2 (~67.0% screen-to-body ratio)",
+    "Resolution" : "480 x 960 pixels, 18:9 ratio (~188 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Quad-core 1.3 GHz Cortex-A53",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 2GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "5 MP\nSecondary unspecified camera",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Single" : "2 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Green, Bronze, Black, Blue",
+    "Price" : "About 50 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X5",
+  "link" : "https://www.gsmarena.com/blu_studio_x5-11829.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x5.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA 21.1/5.76 Mbps",
+    "Announced" : "2022, July",
+    "Status" : "Available. Released 2022, July",
+    "Dimensions" : "145 x 72.4 x 10.1 mm (5.71 x 2.85 x 0.40 in)",
+    "Weight" : "149 g (5.26 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Ion 2000 mAh, removable",
+    "Size" : "5.0 inches, 68.9 cm2 (~65.6% screen-to-body ratio)",
+    "Resolution" : "480 x 854 pixels, 16:9 ratio (~196 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Quad-core 1.3 GHz Cortex-A53",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 1GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "5 MP\nSecondary unspecified camera",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Single" : "2 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Green, Bronze, Black, Blue",
+    "Price" : "About 50 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G40",
+  "link" : "https://www.gsmarena.com/blu_g40-11828.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g40.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, June",
+    "Status" : "Available. Released 2022, June",
+    "Dimensions" : "163.4 x 78.8 x 10.8 mm (6.43 x 3.10 x 0.43 in)",
+    "Weight" : "203 g (7.16 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Ion 3000 mAh, removable",
+    "Size" : "6.0 inches, 92.9 cm2 (~72.2% screen-to-body ratio)",
+    "Resolution" : "720 x 1440 pixels, 18:9 ratio (~268 ppi density)",
+    "OS" : "Android 11",
+    "CPU" : "Quad-core 2.0 GHz Cortex-A75",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 3GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "13 MP\n0.3 MP",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Black, Blue, Green, Cyan, Teal, White",
+    "Price" : "About 100 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "Bold N2",
+  "link" : "https://www.gsmarena.com/blu_bold_n2-11757.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-bold-n2-new.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE / 5G",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 4, 5, 12, 13, 17, 25, 26, 41, 66, 71",
+    "5G bands" : "2, 5, 25, 41, 66, 71, 77 SA/NSA",
+    "Speed" : "HSPA, LTE (CA), 5G",
+    "Announced" : "2022, August 11",
+    "Status" : "Available. Released 2022, August 11",
+    "Dimensions" : "158.7 x 74.1 x 8.6 mm (6.25 x 2.92 x 0.34 in)",
+    "Weight" : "180 g (6.35 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 4200 mAh",
+    "Size" : "6.6 inches, 106.9 cm2 (~90.9% screen-to-body ratio)",
+    "Resolution" : "1080 x 2340 pixels, 19.5:9 ratio (~390 ppi density)",
+    "Protection" : "Corning Gorilla Glass 5",
+    "OS" : "Android 11",
+    "Chipset" : "Mediatek Dimensity 810 (6 nm)",
+    "CPU" : "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU" : "Mali-G57 MC2",
+    "Card slot" : "Unspecified",
+    "Internal" : "256GB 8GB RAM",
+    "Quad" : "64 MP, (wide), PDAF\n5 MP, f/2.4, 115˚ (ultrawide)\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+    "Features" : "Dual-LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Dual" : "16 MP, (wide)\n2 MP, (depth)",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "No",
+    "WLAN" : "Wi-Fi 802.11 b/g/n/ac, Wi-Fi Direct",
+    "Bluetooth" : "5.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0, OTG",
+    "Sensors" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+    "Charging" : "30W wired, 50% in 20 min",
+    "Colors" : "Cyprus Teal",
+    "Price" : "About 230 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X10L 2022",
+  "link" : "https://www.gsmarena.com/blu_studio_x10l_2022-11716.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studiox10l-2022.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 28",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, July",
+    "Status" : "Available. Released 2022, July",
+    "Dimensions" : "145.9 x 73.5 x 9.8 mm (5.74 x 2.89 x 0.39 in)",
+    "Weight" : "175 g (6.17 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Ion 2000 mAh, removable",
+    "Size" : "5.0 inches, 68.9 cm2 (~64.2% screen-to-body ratio)",
+    "Resolution" : "480 x 854 pixels, 16:9 ratio (~196 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Quad-core (4x1.4 GHz Cortex-A53)",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 1GB RAM",
+    "Single" : "5 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Black, Blue, Green, Red",
+    "Price" : "About 50 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "S91 Pro",
+  "link" : "https://www.gsmarena.com/blu_s91_pro-11715.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-s91pro.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 13, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, July",
+    "Status" : "Available. Released 2022, July",
+    "Dimensions" : "164.7 x 76 x 8.9 mm (6.48 x 2.99 x 0.35 in)",
+    "Weight" : "202 g (7.13 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~81.5% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 12",
+    "Chipset" : "Mediatek MT6765V/CB Helio G37 (12 nm)",
+    "CPU" : "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+    "GPU" : "PowerVR GE8320",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 4GB RAM",
+    "Triple" : "50 MP, f/1.8 (wide), 0.7µm, PDAF\n2 MP, f/2.4, 115º (ultrawide)\n0.8 MP, f/2.4, (depth)",
+    "Features" : "Dual-LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "13 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct",
+    "Bluetooth" : "5.0, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0, OTG",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, proximity, compass",
+    "Colors" : "Black, Mint Green",
+    "Price" : "About 180 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "J6S",
+  "link" : "https://www.gsmarena.com/blu_j6s-11673.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-j6s.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed" : "HSPA 21.1/5.76 Mbps",
+    "Announced" : "2022, July 07",
+    "Status" : "Available. Released 2022, July 07",
+    "Dimensions" : "152.9 x 73.3 x 9.7 mm (6.02 x 2.89 x 0.38 in)",
+    "Weight" : "161 g (5.68 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Ion 3000 mAh",
+    "Size" : "6.1 inches, 91.3 cm2 (~81.5% screen-to-body ratio)",
+    "Resolution" : "720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Quad-core 1.3 GHz Cortex-A7",
+    "GPU" : "Mali-400",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 1GB RAM",
+    " " : "eMMC 5.1",
+    "Single" : "5 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), proximity, gyro",
+    "Colors" : "Blue, Bronze, Teal, White",
+    "Price" : "About 50 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "C7X",
+  "link" : "https://www.gsmarena.com/blu_c7x-11672.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c7x.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed" : "HSPA 21.1/5.76 Mbps",
+    "Announced" : "2022, July 07",
+    "Status" : "Available. Released 2022, July 07",
+    "Dimensions" : "165.6 x 76.7 x 9.8 mm (6.52 x 3.02 x 0.39 in)",
+    "Weight" : "203 g (7.16 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Ion 4000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~80.3% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Quad-core 1.3 GHz Cortex-A7",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 1GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "8 MP\n0.3 MP, (depth)",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer",
+    "Colors" : "Brown, Cyan, Dark Blue, Mint Green, Red",
+    "Price" : "About 60 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "S91",
+  "link" : "https://www.gsmarena.com/blu_s91-11643.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-s91.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 13, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, June 24",
+    "Status" : "Available. Released 2022, June 24",
+    "Dimensions" : "164.8 x 76.3 x 8.9 mm (6.49 x 3.00 x 0.35 in)",
+    "Weight" : "202 g (7.13 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~81.1% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 11",
+    "Chipset" : "Mediatek MT6762G Helio G25 (12 nm)",
+    "CPU" : "Octa-core (4x2.0 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53)",
+    "GPU" : "PowerVR GE8320",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 4GB RAM",
+    "Triple" : "13 MP, (wide), PDAF\n0.3 MP, f/2.4, (macro)\n0.3 MP, f/2.4, (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "13 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "5.0, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0, OTG",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+    "Colors" : "Black, Green",
+    "Price" : "About 170 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G51",
+  "link" : "https://www.gsmarena.com/blu_g51-11623.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g51.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, June 03",
+    "Status" : "Available. Released 2022, June 03",
+    "Dimensions" : "155.3 x 73.5 x 9.5 mm (6.11 x 2.89 x 0.37 in)",
+    "Weight" : "166 g (5.86 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 3000 mAh",
+    "Size" : "6.1 inches, 92.9 cm2 (~81.4% screen-to-body ratio)",
+    "Resolution" : "720 x 1520 pixels, 19:9 ratio (~276 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "Chipset" : "Mediatek MT6761 Helio A22 (12 nm)",
+    "CPU" : "Quad-core 2.0 GHz Cortex-A53",
+    "GPU" : "PowerVR GE8320",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 2GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "8 MP\n0.3 MP (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "720p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, proximity",
+    "Colors" : "Black, Blue, Green, Silver, Gold"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G61s",
+  "link" : "https://www.gsmarena.com/blu_g61s-11536.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g61s.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, April",
+    "Status" : "Available. Released 2022, April",
+    "Dimensions" : "159.5 x 76.5 x 9.8 mm (6.28 x 3.01 x 0.39 in)",
+    "Weight" : "164 g (5.78 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~83.6% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 11",
+    "CPU" : "Octa-core 2.0 GHz Cortex-A75",
+    "Card slot" : "microSDXC",
+    "Internal" : "64GB 4GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "13 MP\n0.3 MP, (depth)",
+    "Features" : "LED flash",
+    "Video" : "1080p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (side-mounted), accelerometer, proximity",
+    "Colors" : "Bronze, Red, Green, Cyan, Black"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G50 Mega 2022",
+  "link" : "https://www.gsmarena.com/blu_g50_mega_2022-11509.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/glu-g50-mega-2022.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, April",
+    "Status" : "Available. Released 2022, April",
+    "Dimensions" : "156.1 x 72.5 x 9.3 mm (6.15 x 2.85 x 0.37 in)",
+    "Weight" : "188 g (6.63 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 4000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~90.1% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 11",
+    "CPU" : "Quad-core 2.0 GHz Cortex-A75",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 3GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "12 MP, f/2.2, 1.25µm, AF\n12 MP, f/2.2, 1.25µm, AF",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, proximity",
+    "Charging" : "10W wired",
+    "Colors" : "Black, Blue, Red, Green",
+    "Price" : "About 100 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "F91",
+  "link" : "https://www.gsmarena.com/blu_f91-11483.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-f91-5g.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE / 5G",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 4, 5, 12, 13, 17, 25, 26, 41, 66, 71",
+    "5G bands" : "2, 5, 25, 41, 66, 71, 77 SA/NSA/Sub6",
+    "Speed" : "HSPA, LTE, 5G",
+    "Announced" : "2022, April 20",
+    "Status" : "Available. Released 2022, April 20",
+    "Dimensions" : "168.7 x 76.8 x 8.9 mm (6.64 x 3.02 x 0.35 in)",
+    "Weight" : "209 g (7.37 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.8 inches, 109.8 cm2 (~84.8% screen-to-body ratio)",
+    "Resolution" : "1080 x 2460 pixels (~395 ppi density)",
+    "OS" : "Android 11",
+    "Chipset" : "Mediatek Dimensity 810 (6 nm)",
+    "CPU" : "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU" : "Mali-G57 MC2",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 8GB RAM",
+    "Quad" : "48 MP, f/1.8, (wide) 1/2.0\", 0.8µm, PDAF\n5 MP, f/2.2, 115˚ (ultrawide)\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "16 MP, f/2.0",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n/ac, Wi-Fi Direct",
+    "Bluetooth" : "5.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "Yes",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0, OTG",
+    "Sensors" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Charging" : "18W wired\n10W wireless\nReverse wired",
+    "Colors" : "Blue",
+    "Price" : "About 280 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G71L",
+  "link" : "https://www.gsmarena.com/blu_g71l-11398.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g71l.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, January",
+    "Status" : "Available. Released 2022, January",
+    "Dimensions" : "164.4 x 75.9 x 9.6 mm (6.47 x 2.99 x 0.38 in)",
+    "Weight" : "198 g (6.98 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~81.7% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 11",
+    "CPU" : "Octa-core 1.6 GHz Cortex-A55",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 4GB RAM",
+    "Triple" : "13 MP\n2 MP, (macro)\n2 MP, (depth)",
+    "Features" : "LED flash",
+    "Video" : "1080p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, proximity",
+    "Charging" : "10W wired",
+    "Colors" : "Blue, Green"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G91 Max",
+  "link" : "https://www.gsmarena.com/blu_g91_max-11376.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g91-max.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 28, 38",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, February 23",
+    "Status" : "Available. Released 2022, February 23",
+    "Dimensions" : "168.6 x 77 x 8.9 mm (6.64 x 3.03 x 0.35 in)",
+    "Weight" : "213 g (7.51 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.8 inches, 109.8 cm2 (~84.6% screen-to-body ratio)",
+    "Resolution" : "1080 x 2460 pixels (~395 ppi density)",
+    "OS" : "Android 11",
+    "Chipset" : "Mediatek MT6785V/CD Helio G95 (12 nm)",
+    "CPU" : "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU" : "Mali-G76 MC4",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 8GB RAM",
+    "Quad" : "108 MP, f/1.8, (wide) 1/1.52\", 0.7µm, PDAF\n5 MP, f/2.2, 115˚ (ultrawide)\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "16 MP, f/2.0",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0, OTG",
+    "Sensors" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Charging" : "18W wired\n10W wireless",
+    "Colors" : "Gray, Sky Blue",
+    "Price" : "About 200 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G71+",
+  "link" : "https://www.gsmarena.com/blu_g71+-11369.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g71-plus.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, January",
+    "Status" : "Available. Released 2022, January",
+    "Dimensions" : "160.2 x 76.7 x 9 mm (6.31 x 3.02 x 0.35 in)",
+    "Weight" : "175 g (6.17 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 4900 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~83.0% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 11",
+    "CPU" : "Octa-core 1.8 GHz Cortex-A75",
+    "Card slot" : "microSDXC",
+    "Internal" : "64GB 4GB RAM, 128GB 4GB RAM",
+    " " : "eMMC 5.1",
+    "Triple" : "13 MP, (wide)\n2 MP, (macro)\n2 MP, (depth)",
+    "Features" : "LED flash",
+    "Video" : "1080p@30fps",
+    "Single" : "13 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, proximity",
+    "Colors" : "Bronze, Blue, Green, White"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "M8L 2022",
+  "link" : "https://www.gsmarena.com/blu_m8l_2022-11368.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-m8l-2022.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, February",
+    "Status" : "Available. Released 2022, February",
+    "Dimensions" : "209 x 126 x 10.6 mm (8.23 x 4.96 x 0.42 in)",
+    "Weight" : "360 g (12.70 oz)",
+    "SIM" : "Micro-SIM",
+    "Type" : "Li-Po 4000 mAh",
+    "Size" : "8.0 inches, 185.6 cm2 (~70.5% screen-to-body ratio)",
+    "Resolution" : "800 x 1280 pixels, 16:10 ratio (~189 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Quad-core 2.0 GHz Cortex-A75",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 3GB RAM",
+    " " : "eMMC 5.1",
+    "Single" : "5 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Black, Bronze",
+    "Price" : "About 60 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G51S",
+  "link" : "https://www.gsmarena.com/blu_g51s-11348.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g51s.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 17, 28",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2022, January",
+    "Status" : "Available. Released 2022, January",
+    "Dimensions" : "162.4 x 77.5 x 9 mm (6.39 x 3.05 x 0.35 in)",
+    "Weight" : "185 g (6.53 oz)",
+    "SIM" : "",
+    "Type" : "Li-Po 4000 mAh",
+    "Size" : "6.4 inches, 100.5 cm2 (~79.9% screen-to-body ratio)",
+    "Resolution" : "720 x 1560 pixels, 19.5:9 ratio (~268 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Octa-core 1.6 GHz Cortex-A55",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 2GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "13 MP\n0.3 MP (depth)",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, proximity",
+    "Colors" : "Bronze, Gradient Blue, Green, Red",
+    "Price" : "About 80 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "C5 Max",
+  "link" : "https://www.gsmarena.com/blu_c5_max-11319.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c5-max.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed" : "HSPA 21.1/5.76 Mbps",
+    "Announced" : "2022, January",
+    "Status" : "Available. Released 2022, January",
+    "Dimensions" : "159.2 x 76.5 x 9.8 mm (6.27 x 3.01 x 0.39 in)",
+    "Weight" : "164 g (5.78 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 2700 mAh",
+    "Size" : "5.7 inches, 83.8 cm2 (~68.8% screen-to-body ratio)",
+    "Resolution" : "720 x 1440 pixels, 18:9 ratio (~282 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Quad-core 1.3 GHz Cortex-A7",
+    "Card slot" : "microSDXC",
+    "Internal" : "16GB 1GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "5 MP\n0.3 MP (depth)",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Single" : "5 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Black, Blue, Red, Green, Bronze",
+    "Price" : "About 60 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X10 2022",
+  "link" : "https://www.gsmarena.com/blu_studio_x10_2022-11318.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x10-2022.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed" : "HSPA 21.1/5.76 Mbps",
+    "Announced" : "2022, January",
+    "Status" : "Available. Released 2022, January",
+    "Dimensions" : "145.9 x 73.5 x 9.8 mm (5.74 x 2.89 x 0.39 in)",
+    "Weight" : "175 g (6.17 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 2000 mAh",
+    "Size" : "5.0 inches, 68.9 cm2 (~64.2% screen-to-body ratio)",
+    "Resolution" : "480 x 854 pixels, 16:9 ratio (~196 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "Chipset" : "Mediatek MT6580 (28 nm)",
+    "CPU" : "Quad-core 1.3 GHz Cortex-A7",
+    "GPU" : "Mali-400MP2",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 1GB RAM",
+    " " : "eMMC 5.1",
+    "Single" : "5 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Green, Red, Black, Blue",
+    "Price" : "About 50 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "C5L Max",
+  "link" : "https://www.gsmarena.com/blu_c5l_max-11273.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c5l-max.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2021, December",
+    "Status" : "Available. Released 2021, December",
+    "Dimensions" : "159.5 x 76.5 x 10.5 mm (6.28 x 3.01 x 0.41 in)",
+    "Weight" : "174 g (6.14 oz)",
+    "SIM" : "Nano-SIM",
+    "Type" : "Li-Po 2000 mAh, removable",
+    "Size" : "5.7 inches, 83.8 cm2 (~68.7% screen-to-body ratio)",
+    "Resolution" : "480 x 960 pixels, 18:9 ratio (~188 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "Chipset" : "Unisoc SC9832 (28 nm)",
+    "CPU" : "Quad-core 1.4 GHz Cortex-A53",
+    "GPU" : "Mali-T820 MP1",
+    "Card slot" : "microSDXC",
+    "Internal" : "16GB 1GB RAM, 32GB 2GB RAM",
+    " " : "eMMC 5.1",
+    "Single" : "2 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.2, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Gray, Blue, Red, Green, Bronze"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G91s",
+  "link" : "https://www.gsmarena.com/blu_g91s-11264.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g91s.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 17, 28",
+    "Speed" : "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+    "Announced" : "2021, December 07",
+    "Status" : "Available. Released 2021, December 07",
+    "Dimensions" : "168 x 76.5 x 8.9 mm (6.61 x 3.01 x 0.35 in)",
+    "Weight" : "202 g (7.13 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 6000 mAh",
+    "Size" : "6.8 inches, 109.8 cm2 (~85.4% screen-to-body ratio)",
+    "Resolution" : "1080 x 2460 pixels (~395 ppi density)",
+    "OS" : "Android 11",
+    "Chipset" : "Mediatek MT6769V/CU Helio G80 (12 nm)",
+    "CPU" : "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+    "GPU" : "Mali-G52 MC2",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 4GB RAM",
+    " " : "eMMC 5.1",
+    "Quad" : "48 MP, f/1.8, (wide), 1/2.0, 0.8µm, PDAF\n5 MP, f/2.2, (ultrawide)\n2 MP, f/2.4, (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "13 MP, f/2.0",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "5.0, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0, OTG",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+    "Charging" : "18W wired",
+    "Colors" : "Blue, Green, Gray, Cyan",
+    "Price" : "About 200 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "View 3",
+  "link" : "https://www.gsmarena.com/blu_view_3-11258.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-view3.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 1700(AWS) / 1900",
+    "4G bands" : "2, 4, 5, 12, 13, 25, 26, 41, 66, 71",
+    "Speed" : "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+    "Announced" : "2021, September",
+    "Status" : "Available. Released 2021, October",
+    "Dimensions" : "160.2 x 76.7 x 9 mm (6.31 x 3.02 x 0.35 in)",
+    "Weight" : "178 g (6.28 oz)",
+    "SIM" : "Nano-SIM",
+    "Type" : "Li-Po 3400 mAh",
+    "Size" : "6.0 inches, 92.9 cm2 (~75.6% screen-to-body ratio)",
+    "Resolution" : "720 x 1440 pixels, 18:9 ratio (~268 ppi density)",
+    "OS" : "Android 11",
+    "Chipset" : "Mediatek MT6762 Helio P22 (12 nm)",
+    "CPU" : "Octa-core 2.0 GHz Cortex-A53",
+    "GPU" : "PowerVR GE8320",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 3GB RAM",
+    " " : "eMMC 5.1",
+    "Single" : "8 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "5.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Accelerometer, proximity",
+    "Colors" : "Black",
+    "Price" : "About 50 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "M8L Plus",
+  "link" : "https://www.gsmarena.com/blu_m8l_plus-11096.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-m8l-plus.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2020, August",
+    "Status" : "Available. Released 2020, August",
+    "Dimensions" : "208 x 123.7 x 10.5 mm (8.19 x 4.87 x 0.41 in)",
+    "Weight" : "383 g (13.51 oz)",
+    "SIM" : "Nano-SIM",
+    "Type" : "Li-Po 4300 mAh",
+    "Size" : "8.0 inches, 185.6 cm2 (~72.1% screen-to-body ratio)",
+    "Resolution" : "800 x 1280 pixels, 16:10 ratio (~189 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Octa-core 1.6 GHz Cortex-A55",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 2GB RAM",
+    " " : "eMMC 5.1",
+    "Single" : "5 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Blue",
+    "Price" : "About 60 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "M8L",
+  "link" : "https://www.gsmarena.com/blu_m8l-11095.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-m8l.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+    "4G bands" : "2, 3, 4, 5, 7, 12, 17, 28, 66",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2020, August",
+    "Status" : "Available. Released 2020, August",
+    "Dimensions" : "208 x 125 x 9 mm (8.19 x 4.92 x 0.35 in)",
+    "Weight" : "352 g (12.42 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 4000 mAh",
+    "Size" : "8.0 inches, 185.6 cm2 (~71.4% screen-to-body ratio)",
+    "Resolution" : "800 x 1280 pixels, 16:10 ratio (~189 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Octa-core 1.6 GHz Cortex-A55",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 1GB RAM",
+    " " : "eMMC 5.1",
+    "Single" : "5 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Black",
+    "Price" : "About 60 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X10L",
+  "link" : "https://www.gsmarena.com/blu_studio_x10l-11094.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x10l.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 17, 28",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2020, August",
+    "Status" : "Available. Released 2020, August",
+    "Dimensions" : "142.9 x 73.1 x 9.9 mm (5.63 x 2.88 x 0.39 in)",
+    "Weight" : "152 g (5.36 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 2000 mAh",
+    "Size" : "5.0 inches, 68.9 cm2 (~65.9% screen-to-body ratio)",
+    "Resolution" : "480 x 854 pixels, 16:9 ratio (~196 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Quad-core 1.4 GHz Cortex-A53",
+    "GPU" : "Mali-T820",
+    "Card slot" : "microSDXC",
+    "Internal" : "16GB 1GB RAM",
+    " " : "eMMC 5.1",
+    "Single" : "2 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Gray, Blue, Red, Green",
+    "Price" : "About 50 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G91 Pro",
+  "link" : "https://www.gsmarena.com/blu_g91_pro-11073.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g91-pro.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 17, 28",
+    "Speed" : "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+    "Announced" : "2021, August 26",
+    "Status" : "Available. Released 2021, August 26",
+    "Dimensions" : "165.2 x 76.9 x 8.9 mm (6.50 x 3.03 x 0.35 in)",
+    "Weight" : "201 g (7.09 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.7 inches, 108.4 cm2 (~85.3% screen-to-body ratio)",
+    "Resolution" : "1080 x 2400 pixels, 20:9 ratio (~393 ppi density)",
+    "OS" : "Android 11",
+    "Chipset" : "Mediatek MT6785 Helio G90 (12 nm)",
+    "CPU" : "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU" : "Mali-G76 MC4",
+    "Card slot" : "microSDXC",
+    "Internal" : "128GB 6GB RAM",
+    "Quad" : "48 MP, f/1.8, (wide) 1/2.0\", 0.8µm, PDAF\n5 MP, f/2.2, (ultrawide)\n2 MP, f/2.4, (macro)\n2 MP, f/2.4, (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "1080p@30fps",
+    "Single" : "16 MP, f/2.0",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0, OTG",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+    "Charging" : "30W wired\n10W wireless",
+    "Colors" : "Graphite, Moonstone",
+    "Price" : "About 150 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "J9L",
+  "link" : "https://www.gsmarena.com/blu_j9l-10973.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-j9l.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 17, 28",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2021, June",
+    "Status" : "Available. Released 2021, June",
+    "Dimensions" : "161.6 x 76.9 x 9.7 mm (6.36 x 3.03 x 0.38 in)",
+    "Weight" : "191 g (6.74 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Ion 3000 mAh",
+    "Size" : "6.0 inches, 92.9 cm2 (~74.8% screen-to-body ratio)",
+    "Resolution" : "480 x 960 pixels, 18:9 ratio (~179 ppi density)",
+    "OS" : "Android 11 (Go edition)",
+    "CPU" : "Octa-core 1.6 GHz Cortex-A55",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 1GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "8 MP\n0.3 MP, (depth)",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.0, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer",
+    "Colors" : "Blue, Black, Green, Red"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G51 Plus",
+  "link" : "https://www.gsmarena.com/blu_g51_plus-10934.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g51-plus.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 17, 28",
+    "Speed" : "HSPA, LTE",
+    "Announced" : "2021, May 22",
+    "Status" : "Available. Released 2021, May 22",
+    "Dimensions" : "165 x 76.5 x 9.3 mm (6.50 x 3.01 x 0.37 in)",
+    "Weight" : "200 g (7.05 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 4000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~80.8% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 11",
+    "CPU" : "Octa-core 1.6 GHz Cortex-A55",
+    "Card slot" : "microSDXC",
+    "Internal" : "64GB 3GB RAM",
+    " " : "eMMC 5.1",
+    "Triple" : "13 MP\n0.3 MP (macro)\n0.3 MP (depth)",
+    "Features" : "LED flash, HDR, panorama",
+    "Video" : "720p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, proximity",
+    "Colors" : "Black, Blue, Red, Green",
+    "Price" : "About 110 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "C7",
+  "link" : "https://www.gsmarena.com/blu_c7-10935.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c7.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "Speed" : "HSPA 21.1/5.76 Mbps",
+    "Announced" : "2021, May 22",
+    "Status" : "Available. Released 2021, May 22",
+    "Dimensions" : "165 x 76.5 x 8.9 mm (6.50 x 3.01 x 0.35 in)",
+    "Weight" : "186 g (6.56 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 4000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~80.8% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 10 (Go edition)",
+    "CPU" : "Quad-core 1.3 GHz Cortex-A7",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 1GB RAM",
+    " " : "eMMC 5.1",
+    "Dual" : "8 MP\n0.3 MP, (depth)",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Single" : "8 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.0, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer",
+    "Colors" : "Black, Blue, Green, Red",
+    "Price" : "About 60 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "View 2",
+  "link" : "https://www.gsmarena.com/blu_view_2-10915.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-view-2.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 1700(AWS) / 1900",
+    "4G bands" : "2, 4, 5, 12, 13, 25, 26, 41, 66, 71",
+    "Speed" : "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+    "Announced" : "2020, November",
+    "Status" : "Available. Released 2020, November",
+    "Dimensions" : "153.7 x 71 x 9.5 mm (6.05 x 2.80 x 0.37 in)",
+    "Weight" : "162 g (5.71 oz)",
+    "SIM" : "Nano-SIM",
+    "Type" : "Li-Po 3000 mAh, removable",
+    "Size" : "5.5 inches, 78.1 cm2 (~71.5% screen-to-body ratio)",
+    "Resolution" : "720 x 1440 pixels, 18:9 ratio (~293 ppi density)",
+    "OS" : "Android 10",
+    "Chipset" : "Mediatek MT6761 Helio A22 (12 nm)",
+    "CPU" : "Octa-core 2.0 GHz Cortex-A53",
+    "GPU" : "PowerVR GE8320",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 2GB RAM",
+    " " : "eMMC 5.1",
+    "Single" : "8 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.1, A2DP, LE",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Accelerometer, proximity",
+    "Colors" : "Black",
+    "Models" : "B130DL, B131DL"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G91",
+  "link" : "https://www.gsmarena.com/blu_g91-10781.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g91.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 17, 28",
+    "Speed" : "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+    "Announced" : "2021, February 24",
+    "Status" : "Available. Released 2021, February 24",
+    "Dimensions" : "163 x 76 x 9 mm (6.42 x 2.99 x 0.35 in)",
+    "Weight" : "196 g (6.91 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~82.3% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 10",
+    "CPU" : "Octa-core 1.8 GHz Cortex-A53",
+    "Card slot" : "microSDXC (dedicated slot)",
+    "Internal" : "128GB 4GB RAM",
+    "Quad" : "16 MP, (wide), AF\n5 MP, (ultrawide)\n2 MP, (macro)\n2 MP, (depth)",
+    "Features" : "LED flash",
+    "Video" : "1080p@30fps",
+    "Single" : "16 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.0, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, proximity",
+    "Charging" : "10W wired",
+    "Colors" : "Blue, Green, Twilight",
+    "Price" : "About 150 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G71",
+  "link" : "https://www.gsmarena.com/blu_g71-10745.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g71.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA / LTE",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands" : "1, 2, 3, 4, 5, 7, 12, 17, 28",
+    "Speed" : "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+    "Announced" : "2021, February 19",
+    "Status" : "Available. Released 2021, February 19",
+    "Dimensions" : "165 x 76.6 x 8.9 mm (6.50 x 3.02 x 0.35 in)",
+    "Weight" : "194 g (6.84 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Po 5000 mAh",
+    "Size" : "6.5 inches, 102.0 cm2 (~80.7% screen-to-body ratio)",
+    "Resolution" : "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+    "OS" : "Android 10",
+    "CPU" : "Octa-core 1.8 GHz Cortex-A53",
+    "Card slot" : "microSDXC (dedicated slot)",
+    "Internal" : "64GB 3GB RAM",
+    " " : "eMMC 5.1",
+    "Triple" : "13 MP, (wide), AF\n5 MP, (ultrawide)\n2 MP, (depth)",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Single" : "13 MP",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.0, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "USB Type-C 2.0",
+    "Sensors" : "Fingerprint (rear-mounted), accelerometer, proximity",
+    "Charging" : "10W wired",
+    "Colors" : "Black, Blue, Green, Red",
+    "Price" : "About 80 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X12",
+  "link" : "https://www.gsmarena.com/blu_studio_x12-10741.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x12.jpg",
+  "info" : {
+    "Technology" : "GSM / HSPA",
+    "2G bands" : "GSM 850 / 900 / 1800 / 1900",
+    "3G bands" : "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed" : "HSPA 21.1/5.76 Mbps",
+    "Announced" : "2021, February 16",
+    "Status" : "Available. Released 2021, February 16",
+    "Dimensions" : "160 x 77.5 x 9 mm (6.30 x 3.05 x 0.35 in)",
+    "Weight" : "189 g (6.67 oz)",
+    "SIM" : "Nano-SIM + Nano-SIM",
+    "Type" : "Li-Ion 3000 mAh",
+    "Size" : "6.0 inches, 92.9 cm2 (~74.9% screen-to-body ratio)",
+    "Resolution" : "480 x 960 pixels, 18:9 ratio (~179 ppi density)",
+    "OS" : "Android 10 (Go edition)",
+    "CPU" : "Quad-core 1.3 GHz Cortex-A7",
+    "Card slot" : "microSDXC",
+    "Internal" : "32GB 1GB RAM",
+    " " : "eMMC 5.1",
+    "Single" : "8 MP",
+    "Features" : "LED flash",
+    "Video" : "720p@30fps",
+    "Loudspeaker " : "Yes",
+    "3.5mm jack " : "Yes",
+    "WLAN" : "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth" : "4.0, A2DP",
+    "Positioning" : "GPS",
+    "NFC" : "No",
+    "Radio" : "FM radio",
+    "USB" : "microUSB 2.0",
+    "Sensors" : "Accelerometer",
+    "Colors" : "Black, Blue, Green, Red",
+    "Price" : "About 60 EUR"
+  },
+  "brand" : "BLU"
+}, {
+  "name" : "G61",
+  "link" : "https://www.gsmarena.com/blu_g61-10730.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g61.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X10+",
+  "link" : "https://www.gsmarena.com/blu_studio_x10+-10729.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x10-plus1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "A5L",
+  "link" : "https://www.gsmarena.com/blu_a5l-10731.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-a5l.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "M7L",
+  "link" : "https://www.gsmarena.com/blu_m7l-10732.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-m7l.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "View Mega",
+  "link" : "https://www.gsmarena.com/blu_view_mega-10640.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-view-mega.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G50 Mega",
+  "link" : "https://www.gsmarena.com/blu_g50_mega-10607.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g50-mega.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "J7L",
+  "link" : "https://www.gsmarena.com/blu_j7l-10535.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-j7l.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "J5L",
+  "link" : "https://www.gsmarena.com/blu_j5l-10536.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-j5l.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "J6 2020",
+  "link" : "https://www.gsmarena.com/blu_j6_2020-10537.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-j6-2020.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C6L 2020",
+  "link" : "https://www.gsmarena.com/blu_c6l_2020-10538.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c6l-2020.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C5L 2020",
+  "link" : "https://www.gsmarena.com/blu_c5l_2020-10540.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c5l-2020.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C6 2020",
+  "link" : "https://www.gsmarena.com/blu_c6_2020-10539.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c6-2020.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G50 Plus",
+  "link" : "https://www.gsmarena.com/blu_g50_plus-10470.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g50-plus.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G50",
+  "link" : "https://www.gsmarena.com/blu_g50-10453.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g50.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G90 Pro",
+  "link" : "https://www.gsmarena.com/blu_g90_pro-10403.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g90-pro.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X10",
+  "link" : "https://www.gsmarena.com/blu_studio_x10-10359.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x10.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G90",
+  "link" : "https://www.gsmarena.com/blu_g90-10313.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g90.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G80",
+  "link" : "https://www.gsmarena.com/blu_g80-10312.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g80.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X9 HD",
+  "link" : "https://www.gsmarena.com/blu_studio_x9_hd-10160.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x9-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "J6",
+  "link" : "https://www.gsmarena.com/blu_j6-10107.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-j6.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "J4",
+  "link" : "https://www.gsmarena.com/blu_j4-10106.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-j4.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "J2",
+  "link" : "https://www.gsmarena.com/blu_j2-10105.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-j2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tank Xtreme",
+  "link" : "https://www.gsmarena.com/blu_tank_xtreme-10047.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tank-xtreme.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G70",
+  "link" : "https://www.gsmarena.com/blu_g70-10046.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g70.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G60",
+  "link" : "https://www.gsmarena.com/blu_g60-10045.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g60.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "View 1",
+  "link" : "https://www.gsmarena.com/blu_view_1-9994.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-view1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C5 Plus",
+  "link" : "https://www.gsmarena.com/blu_c5_plus-9968.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c5-plus.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C5 2019",
+  "link" : "https://www.gsmarena.com/blu_c5_2019-9967.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c5-2019.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C6 2019",
+  "link" : "https://www.gsmarena.com/blu_c6_2019-9930.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c6-2019-2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Advance L5",
+  "link" : "https://www.gsmarena.com/blu_advance_l5-9929.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-advance-l5.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Bold N1",
+  "link" : "https://www.gsmarena.com/blu_bold_n1-9855.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-bold-n1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Mini",
+  "link" : "https://www.gsmarena.com/blu_studio_mini-9877.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-mini.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo XL5",
+  "link" : "https://www.gsmarena.com/blu_vivo_xl5-9854.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/vivo-xl5-.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo X5",
+  "link" : "https://www.gsmarena.com/blu_vivo_x5-9853.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/vivo-x5.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G9 Pro",
+  "link" : "https://www.gsmarena.com/blu_g9_pro-9811.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g9-pro-.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Mega 2019",
+  "link" : "https://www.gsmarena.com/blu_studio_mega_2019-9876.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-mega-2019.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G8",
+  "link" : "https://www.gsmarena.com/blu_g8-9778.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/bly-g8.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G6",
+  "link" : "https://www.gsmarena.com/blu_g6-9777.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/bly-g6.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G5 Plus",
+  "link" : "https://www.gsmarena.com/blu_g5_plus-9776.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/bly-g5p.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G5",
+  "link" : "https://www.gsmarena.com/blu_g5-9775.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/bly-g5.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "G9",
+  "link" : "https://www.gsmarena.com/blu_g9-9718.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g9.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C5L",
+  "link" : "https://www.gsmarena.com/blu_c5l-9597.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c5l.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X8 HD (2019)",
+  "link" : "https://www.gsmarena.com/blu_studio_x8_hd_(2019)-9565.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x8-hd-3g.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C6L",
+  "link" : "https://www.gsmarena.com/blu_c6l-9542.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c6l.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo One Plus (2019)",
+  "link" : "https://www.gsmarena.com/blu_vivo_one_plus_(2019)-9518.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-one-plus-2019.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo Go",
+  "link" : "https://www.gsmarena.com/blu_vivo_go-9482.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-go.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo XL4",
+  "link" : "https://www.gsmarena.com/blu_vivo_xl4-9470.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-xl4.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Mega (2018)",
+  "link" : "https://www.gsmarena.com/blu_studio_mega_(2018)-9360.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-mega-2018-.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand M2 (2018)",
+  "link" : "https://www.gsmarena.com/blu_grand_m2_(2018)-9359.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-grand-m2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Advance L4",
+  "link" : "https://www.gsmarena.com/blu_advance_l4-9325.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-al4.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo XI",
+  "link" : "https://www.gsmarena.com/blu_vivo_xi-9314.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-xi.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo XI+",
+  "link" : "https://www.gsmarena.com/blu_vivo_xi+-9307.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-xl-plus.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C5",
+  "link" : "https://www.gsmarena.com/blu_c5-9302.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c5.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C4",
+  "link" : "https://www.gsmarena.com/blu_c4-9301.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c4.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G4",
+  "link" : "https://www.gsmarena.com/blu_studio_g4-9277.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-g4.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C6",
+  "link" : "https://www.gsmarena.com/blu_c6-9254.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c6.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand M3",
+  "link" : "https://www.gsmarena.com/blu_grand_m3-9253.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-grand-m3.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Pure View",
+  "link" : "https://www.gsmarena.com/blu_pure_view-9223.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-pure-view.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio View",
+  "link" : "https://www.gsmarena.com/blu_studio_view-9184.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-view.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo XL3",
+  "link" : "https://www.gsmarena.com/blu_vivo_xl3-9165.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-xl3-.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo One Plus",
+  "link" : "https://www.gsmarena.com/blu_vivo_one_plus-9154.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-one-plus.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash L4",
+  "link" : "https://www.gsmarena.com/blu_dash_l4-9146.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-l4-3g.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "X Link",
+  "link" : "https://www.gsmarena.com/blu_x_link-9132.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-xlink.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo XL3 Plus",
+  "link" : "https://www.gsmarena.com/blu_vivo_xl3_plus-9131.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-xl3.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo X",
+  "link" : "https://www.gsmarena.com/blu_vivo_x-9072.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-x.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio J8M LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_j8m_lte-9064.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sj8m.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo One",
+  "link" : "https://www.gsmarena.com/blu_vivo_one-9063.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vo.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio View XL",
+  "link" : "https://www.gsmarena.com/blu_studio_view_xl-9007.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sv-xl.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash L5 LTE",
+  "link" : "https://www.gsmarena.com/blu_dash_l5_lte-8965.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dl5-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash L4 LTE",
+  "link" : "https://www.gsmarena.com/blu_dash_l4_lte-8964.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dl4-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand 5.5 HD II",
+  "link" : "https://www.gsmarena.com/blu_grand_5_5_hd_ii-8952.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-g55-hd2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life One X3",
+  "link" : "https://www.gsmarena.com/blu_life_one_x3-8946.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-l1x3.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "R2 Plus",
+  "link" : "https://www.gsmarena.com/blu_r2_plus-8945.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-r2p.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G3",
+  "link" : "https://www.gsmarena.com/blu_studio_g3-8924.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sg3.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand M2 LTE",
+  "link" : "https://www.gsmarena.com/blu_grand_m2_lte-8925.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-gm2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C5 LTE",
+  "link" : "https://www.gsmarena.com/blu_c5_lte-8926.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c5lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand M2",
+  "link" : "https://www.gsmarena.com/blu_grand_m2-8906.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-grand-m2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "C5 (2017)",
+  "link" : "https://www.gsmarena.com/blu_c5_(2017)-8905.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-c5-3g.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "S1",
+  "link" : "https://www.gsmarena.com/blu_s1-8865.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-s1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand XL LTE",
+  "link" : "https://www.gsmarena.com/blu_grand_xl_lte-8846.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-gxllte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Touchbook M7",
+  "link" : "https://www.gsmarena.com/blu_touchbook_m7-8845.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tm7.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Pro",
+  "link" : "https://www.gsmarena.com/blu_studio_pro-8842.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sp.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G Mini",
+  "link" : "https://www.gsmarena.com/blu_studio_g_mini-8841.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sgm1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo 8",
+  "link" : "https://www.gsmarena.com/blu_vivo_8-8835.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo8.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio J8",
+  "link" : "https://www.gsmarena.com/blu_studio_j8-8824.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-st-j8-3g.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio J8 LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_j8_lte-8825.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-st-j8-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Touchbook M7 Pro",
+  "link" : "https://www.gsmarena.com/blu_touchbook_m7_pro-8826.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-touchbook-m7-pro.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand Mini",
+  "link" : "https://www.gsmarena.com/blu_grand_mini-8796.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-grand-mini.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "R2 LTE",
+  "link" : "https://www.gsmarena.com/blu_r2_lte-8773.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-r2-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "R2",
+  "link" : "https://www.gsmarena.com/blu_r2-8774.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-r2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tank Xtreme Pro",
+  "link" : "https://www.gsmarena.com/blu_tank_xtreme_pro-8736.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tep.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio J1",
+  "link" : "https://www.gsmarena.com/blu_studio_j1-8735.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sj1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand X LTE",
+  "link" : "https://www.gsmarena.com/blu_grand_x_lte-8732.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-gxlte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand XL",
+  "link" : "https://www.gsmarena.com/blu_grand_xl-8731.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-gxl.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio J2",
+  "link" : "https://www.gsmarena.com/blu_studio_j2-8713.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-st-j2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Mega",
+  "link" : "https://www.gsmarena.com/blu_studio_mega-8709.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-st-mg.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "R1 Plus",
+  "link" : "https://www.gsmarena.com/blu_r1_plus-8670.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-r1-plus.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Selfie LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_selfie_lte-8653.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-ss-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life One X2 Mini",
+  "link" : "https://www.gsmarena.com/blu_life_one_x2_mini-8621.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-one-x2-mini.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash L3",
+  "link" : "https://www.gsmarena.com/blu_dash_l3-8555.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dl3.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Advance 4.0 L3",
+  "link" : "https://www.gsmarena.com/blu_advance_4_0_l3-8553.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-a4-l3.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo XL2",
+  "link" : "https://www.gsmarena.com/blu_vivo_xl2-8544.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-v-xl2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo 5 Mini",
+  "link" : "https://www.gsmarena.com/blu_vivo_5_mini-8541.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-v5m.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand Max",
+  "link" : "https://www.gsmarena.com/blu_grand_max-8557.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-gm50.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand Energy",
+  "link" : "https://www.gsmarena.com/blu_grand_energy-8556.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-ge.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand M",
+  "link" : "https://www.gsmarena.com/blu_grand_m-8534.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-gm.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand X",
+  "link" : "https://www.gsmarena.com/blu_grand_x-8533.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-gx5.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio J5",
+  "link" : "https://www.gsmarena.com/blu_studio_j5-8527.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sj5.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tank Xtreme 5.0",
+  "link" : "https://www.gsmarena.com/blu_tank_xtreme_5_0-8524.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tx5.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tank Xtreme 4.0",
+  "link" : "https://www.gsmarena.com/blu_tank_xtreme_4_0-8525.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tx4.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tank Xtreme 2.4",
+  "link" : "https://www.gsmarena.com/blu_tank_xtreme_2_4-8526.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tx24.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Energy X Plus 2",
+  "link" : "https://www.gsmarena.com/blu_energy_x_plus_2-8496.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-exp2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Max",
+  "link" : "https://www.gsmarena.com/blu_studio_max-8462.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sm.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G2 HD",
+  "link" : "https://www.gsmarena.com/blu_studio_g2_hd-8461.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sg2hd11.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life Max",
+  "link" : "https://www.gsmarena.com/blu_life_max-8460.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-lm.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Advance 4.0 M",
+  "link" : "https://www.gsmarena.com/blu_advance_4_0_m-8459.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-a40m.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash XL",
+  "link" : "https://www.gsmarena.com/blu_dash_xl-8457.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dxl.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash G",
+  "link" : "https://www.gsmarena.com/blu_dash_g-8456.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dg.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo 6",
+  "link" : "https://www.gsmarena.com/blu_vivo_6-8426.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo6.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio XL2",
+  "link" : "https://www.gsmarena.com/blu_studio_xl2-8427.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sxl2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G Max",
+  "link" : "https://www.gsmarena.com/blu_studio_g_max-8428.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sgm.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G Plus HD",
+  "link" : "https://www.gsmarena.com/blu_studio_g_plus_hd-8429.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-sgphd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life One X2",
+  "link" : "https://www.gsmarena.com/blu_life_one_x2-8349.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-one-x2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo 5R",
+  "link" : "https://www.gsmarena.com/blu_vivo_5r-8338.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-5r.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Pure XR",
+  "link" : "https://www.gsmarena.com/blu_pure_xr-8296.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-pure-xr.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G HD LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_g_hd_lte-8322.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-g-hd-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G2",
+  "link" : "https://www.gsmarena.com/blu_studio_g2-8323.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-g2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio M LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_m_lte-8324.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-m-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio C 8+8",
+  "link" : "https://www.gsmarena.com/blu_studio_c_8+8-8256.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-c88.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio C 8+8 LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_c_8+8_lte-8255.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-c88.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Energy Diamond",
+  "link" : "https://www.gsmarena.com/blu_energy_diamond-8252.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-energy-diamond1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Diamond M",
+  "link" : "https://www.gsmarena.com/blu_diamond_m-8251.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-diamond-m1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Energy M",
+  "link" : "https://www.gsmarena.com/blu_energy_m-8253.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-energy-m.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Neo X LTE",
+  "link" : "https://www.gsmarena.com/blu_neo_x_lte-8254.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-neo-x-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "R1 HD",
+  "link" : "https://www.gsmarena.com/blu_r1_hd-8171.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-r1-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Grand 5.5 HD",
+  "link" : "https://www.gsmarena.com/blu_grand_5_5_hd-8188.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-grand-55-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Energy Diamond Mini",
+  "link" : "https://www.gsmarena.com/blu_energy_diamond_mini-8189.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-energy-diamond-mini1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash 4.5 (2016)",
+  "link" : "https://www.gsmarena.com/blu_dash_4_5_(2016)-8190.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-45-16.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Neo X Mini",
+  "link" : "https://www.gsmarena.com/blu_neo_x_mini-8191.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-neo-x-mini.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Energy XL",
+  "link" : "https://www.gsmarena.com/blu_energy_xl-8187.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-energy-xl.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Touch Book M7",
+  "link" : "https://www.gsmarena.com/blu_touch_book_m7-8153.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-touchbook-m7.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Touch",
+  "link" : "https://www.gsmarena.com/blu_studio_touch-8152.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-touch.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash L2",
+  "link" : "https://www.gsmarena.com/blu_dash_l2-8151.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-l2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Selfie 2",
+  "link" : "https://www.gsmarena.com/blu_studio_selfie_2-8118.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-selfie-2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Neo XL",
+  "link" : "https://www.gsmarena.com/blu_neo_xl-8117.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-neo-xl.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Neo X",
+  "link" : "https://www.gsmarena.com/blu_neo_x-8116.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-neo-x.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X8 HD",
+  "link" : "https://www.gsmarena.com/blu_studio_x8_hd-8119.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x8-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Energy JR",
+  "link" : "https://www.gsmarena.com/blu_energy_jr-8115.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-energy-jr.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Advance 4.0 L2",
+  "link" : "https://www.gsmarena.com/blu_advance_4_0_l2-8030.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-a-40-l2-.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash X2",
+  "link" : "https://www.gsmarena.com/blu_dash_x2-8029.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-x2-.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash M2",
+  "link" : "https://www.gsmarena.com/blu_dash_m2-8028.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-m2-.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X Mini",
+  "link" : "https://www.gsmarena.com/blu_studio_x_mini-8003.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-x-mini.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life Mark",
+  "link" : "https://www.gsmarena.com/blu_life_mark-7990.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-mark.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio One Plus",
+  "link" : "https://www.gsmarena.com/blu_studio_one_plus-7988.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-one-plus.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio One",
+  "link" : "https://www.gsmarena.com/blu_studio_one-7989.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-one.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash X Plus LTE",
+  "link" : "https://www.gsmarena.com/blu_dash_x_plus_lte-7987.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-x-plus-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Energy X LTE",
+  "link" : "https://www.gsmarena.com/blu_energy_x_lte-7986.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-energy-x-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life XL",
+  "link" : "https://www.gsmarena.com/blu_life_xl-7978.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-xl-.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.5 HD",
+  "link" : "https://www.gsmarena.com/blu_studio_5_5_hd-7974.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-5.5-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Energy X 2",
+  "link" : "https://www.gsmarena.com/blu_energy_x_2-7924.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-energy-x2-.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Neo X Plus",
+  "link" : "https://www.gsmarena.com/blu_neo_x_plus-7923.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-neo-x-plus.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G HD",
+  "link" : "https://www.gsmarena.com/blu_studio_g_hd-7922.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-g-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio M HD",
+  "link" : "https://www.gsmarena.com/blu_studio_m_hd-7892.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-m-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio C HD",
+  "link" : "https://www.gsmarena.com/blu_studio_c_hd-7867.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-c-hd-.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo XL",
+  "link" : "https://www.gsmarena.com/blu_vivo_xl-7858.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-xl.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo 5",
+  "link" : "https://www.gsmarena.com/blu_vivo_5-7857.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-5.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life One X (2016)",
+  "link" : "https://www.gsmarena.com/blu_life_one_x_(2016)-7820.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-one-x-2016.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G Plus",
+  "link" : "https://www.gsmarena.com/blu_studio_g_plus-7775.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-g-plus.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash X LTE",
+  "link" : "https://www.gsmarena.com/blu_dash_x_lte-7774.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-x-lte1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 7.0 LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_7_0_lte-7726.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-70-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash L",
+  "link" : "https://www.gsmarena.com/blu_dash_l-7725.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-l.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_g_lte-7706.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-g-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash M",
+  "link" : "https://www.gsmarena.com/blu_dash_m-7705.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-m.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash X",
+  "link" : "https://www.gsmarena.com/blu_dash_x-7676.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-x.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Energy 2",
+  "link" : "https://www.gsmarena.com/blu_studio_energy_2-7671.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-energy-2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash X Plus",
+  "link" : "https://www.gsmarena.com/blu_dash_x_plus-7645.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-x-plus.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Energy X",
+  "link" : "https://www.gsmarena.com/blu_energy_x-7623.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-energy-x.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Pure XL",
+  "link" : "https://www.gsmarena.com/blu_pure_xl-7558.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-pure-xl.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo Air LTE",
+  "link" : "https://www.gsmarena.com/blu_vivo_air_lte-7559.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-air-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio XL",
+  "link" : "https://www.gsmarena.com/blu_studio_xl-7523.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-xl.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life X8",
+  "link" : "https://www.gsmarena.com/blu_life_x8-7499.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-x8.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Touchbook G7",
+  "link" : "https://www.gsmarena.com/blu_touchbook_g7-7498.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-touchbook-g7.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 7.0 II",
+  "link" : "https://www.gsmarena.com/blu_studio_7_0_ii-7490.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-70-ii.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio C Super Camera",
+  "link" : "https://www.gsmarena.com/blu_studio_c_super_camera-7489.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-c-super-camera.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo Selfie",
+  "link" : "https://www.gsmarena.com/blu_vivo_selfie-7450.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-selfie.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Energy X Plus",
+  "link" : "https://www.gsmarena.com/blu_energy_x_plus-7449.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-energy-x-plus.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio C 5 + 5 LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_c_5_+_5_lte-7448.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-c55.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio C 5 + 5",
+  "link" : "https://www.gsmarena.com/blu_studio_c_5_+_5-7447.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-c55.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life 8 XL",
+  "link" : "https://www.gsmarena.com/blu_life_8_xl-7293.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-8-xl--.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.5C",
+  "link" : "https://www.gsmarena.com/blu_studio_5_5c-7291.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-55-c.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio C",
+  "link" : "https://www.gsmarena.com/blu_studio_c-7290.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-c.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Advance 4.0 L",
+  "link" : "https://www.gsmarena.com/blu_advance_4_0_l-7265.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-advance.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Selfie",
+  "link" : "https://www.gsmarena.com/blu_selfie-7225.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-selfie.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Win HD LTE",
+  "link" : "https://www.gsmarena.com/blu_win_hd_lte-7205.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-win-hd-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Win JR LTE",
+  "link" : "https://www.gsmarena.com/blu_win_jr_lte-7204.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-win-jr-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life One (2015)",
+  "link" : "https://www.gsmarena.com/blu_life_one_(2015)-6930.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-one-20151.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life One XL",
+  "link" : "https://www.gsmarena.com/blu_life_one_xl-6929.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-one-xl1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Energy",
+  "link" : "https://www.gsmarena.com/blu_studio_energy-6928.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-st-e.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio G",
+  "link" : "https://www.gsmarena.com/blu_studio_g-6927.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-st-g.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X Plus",
+  "link" : "https://www.gsmarena.com/blu_studio_x_plus-6926.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-st-x-plus1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio X",
+  "link" : "https://www.gsmarena.com/blu_studio_x-6925.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-st-x.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo Air",
+  "link" : "https://www.gsmarena.com/blu_vivo_air-6924.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-air.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 6.0 LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_6_0_lte-6900.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-s6-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.0 HD LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_5_0_hd_lte-6899.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-s5hd-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio Mini LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_mini_lte-6839.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-Studio-Mini-LTE.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 7.0",
+  "link" : "https://www.gsmarena.com/blu_studio_7_0-6838.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-Studio-7.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Sport 4.5",
+  "link" : "https://www.gsmarena.com/blu_sport_4_5-6837.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-Sport-4.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life View 8.0",
+  "link" : "https://www.gsmarena.com/blu_life_view_8_0-6836.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-Life-View-8.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life Play Mini",
+  "link" : "https://www.gsmarena.com/blu_life_play_mini-6835.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-Life-Play-Mini.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash Music JR",
+  "link" : "https://www.gsmarena.com/blu_dash_music_jr-6834.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-Dash-Music-Jr.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash C Music",
+  "link" : "https://www.gsmarena.com/blu_dash_c_music-6833.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-Dash-C-Music.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Win JR",
+  "link" : "https://www.gsmarena.com/blu_win_jr-6670.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-win-jr.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Win HD",
+  "link" : "https://www.gsmarena.com/blu_win_hd-6669.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-win-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.0 C HD",
+  "link" : "https://www.gsmarena.com/blu_studio_5_0_c_hd-6565.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-50-c-hd-new.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio C Mini",
+  "link" : "https://www.gsmarena.com/blu_studio_c_mini-6566.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-c-mini-new.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.0 C",
+  "link" : "https://www.gsmarena.com/blu_studio_5_0_c-6567.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-50-c-new.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.0 CE",
+  "link" : "https://www.gsmarena.com/blu_studio_5_0_ce-6568.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-50-ce-new.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo IV",
+  "link" : "https://www.gsmarena.com/blu_vivo_iv-6406.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-iv.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life 8",
+  "link" : "https://www.gsmarena.com/blu_life_8-6405.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-8.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life Pure XL",
+  "link" : "https://www.gsmarena.com/blu_life_pure_xl-6346.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-pure-xl.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.0 LTE",
+  "link" : "https://www.gsmarena.com/blu_studio_5_0_lte-6339.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-5.0-lte.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 6.0 HD",
+  "link" : "https://www.gsmarena.com/blu_studio_6_0_hd-6330.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-60-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Neo 4.5",
+  "link" : "https://www.gsmarena.com/blu_neo_4_5-6277.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-neo-45.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Neo 3.5",
+  "link" : "https://www.gsmarena.com/blu_neo_3_5-6276.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-neo-35.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.0 S II",
+  "link" : "https://www.gsmarena.com/blu_studio_5_0_s_ii-6244.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-50s-ii.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.0 E",
+  "link" : "https://www.gsmarena.com/blu_studio_5_0_e-6243.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-50e.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.5 S",
+  "link" : "https://www.gsmarena.com/blu_studio_5_5_s-6242.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-55s.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life Pure Mini",
+  "link" : "https://www.gsmarena.com/blu_life_pure_mini-6041.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-pure-mini.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo 4.8 HD",
+  "link" : "https://www.gsmarena.com/blu_vivo_4_8_hd-5986.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-48.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life View Tab",
+  "link" : "https://www.gsmarena.com/blu_life_view_tab-5957.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-view-tab.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life Play S",
+  "link" : "https://www.gsmarena.com/blu_life_play_s-5956.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-play-s.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life One X",
+  "link" : "https://www.gsmarena.com/blu_life_one_x-5955.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-one-x.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life One M",
+  "link" : "https://www.gsmarena.com/blu_life_one_m-5954.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-one-m.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life Play X",
+  "link" : "https://www.gsmarena.com/blu_life_play_x-5935.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-play-x.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life Pure",
+  "link" : "https://www.gsmarena.com/blu_life_pure-5920.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-pure.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.0 II",
+  "link" : "https://www.gsmarena.com/blu_studio_5_0_ii-5909.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-50-ii.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Advance 4.0",
+  "link" : "https://www.gsmarena.com/blu_advance_4_0-5908.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-advance-4.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life Pro",
+  "link" : "https://www.gsmarena.com/blu_life_pro-5873.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-pro.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.5",
+  "link" : "https://www.gsmarena.com/blu_studio_5_5-5761.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-55.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Samba W",
+  "link" : "https://www.gsmarena.com/blu_samba_w-5748.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-samba-w.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Samba TV",
+  "link" : "https://www.gsmarena.com/blu_samba_tv-5747.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-samba-tv.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Jenny TV 2.8",
+  "link" : "https://www.gsmarena.com/blu_jenny_tv_2_8-5746.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-jenny-tv-28.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Zoey",
+  "link" : "https://www.gsmarena.com/blu_zoey-5745.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-zoey.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash 5.0",
+  "link" : "https://www.gsmarena.com/blu_dash_5_0-5661.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-d50.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash Music 4.0",
+  "link" : "https://www.gsmarena.com/blu_dash_music_4_0-5660.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-d-m.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash JR",
+  "link" : "https://www.gsmarena.com/blu_dash_jr-5662.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-d-jr.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash 4.5",
+  "link" : "https://www.gsmarena.com/blu_dash_4_5-5593.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-45.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Amour",
+  "link" : "https://www.gsmarena.com/blu_amour-5489.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-amour.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.3 S",
+  "link" : "https://www.gsmarena.com/blu_studio_5_3_s-5458.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-53s.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.0 S",
+  "link" : "https://www.gsmarena.com/blu_studio_5_0_s-5459.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-5s.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.0",
+  "link" : "https://www.gsmarena.com/blu_studio_5_0-5460.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-5.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash Music",
+  "link" : "https://www.gsmarena.com/blu_dash_music-5411.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-music.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Diva X",
+  "link" : "https://www.gsmarena.com/blu_diva_x-5410.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-diva-x.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Diva",
+  "link" : "https://www.gsmarena.com/blu_diva-5409.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-diva.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tattoo S",
+  "link" : "https://www.gsmarena.com/blu_tattoo_s-5408.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tattoo-s.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life View",
+  "link" : "https://www.gsmarena.com/blu_life_view-5360.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-view.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life One",
+  "link" : "https://www.gsmarena.com/blu_life_one-5358.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-one.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Life Play",
+  "link" : "https://www.gsmarena.com/blu_life_play-5359.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-life-play.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.3 II",
+  "link" : "https://www.gsmarena.com/blu_studio_5_3_ii-5295.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-53-ii-new.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tank 4.5",
+  "link" : "https://www.gsmarena.com/blu_tank_4_5-5294.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tank-45.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Quattro 5.7 HD",
+  "link" : "https://www.gsmarena.com/blu_quattro_5_7_hd-5283.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-quattro-57-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Quattro 4.5 HD",
+  "link" : "https://www.gsmarena.com/blu_quattro_4_5_hd-5282.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-quattro-45-hd-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Quattro 4.5",
+  "link" : "https://www.gsmarena.com/blu_quattro_4_5-5281.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-quattro-45-hd.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Hero II",
+  "link" : "https://www.gsmarena.com/blu_hero_ii-5210.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-hero-ii.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash 4.0",
+  "link" : "https://www.gsmarena.com/blu_dash_4_0-5209.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-40.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash 3.2",
+  "link" : "https://www.gsmarena.com/blu_dash_3_2-5208.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-32.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Brooklyn",
+  "link" : "https://www.gsmarena.com/blu_brooklyn-5207.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-brooklyn.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo 4.65 HD",
+  "link" : "https://www.gsmarena.com/blu_vivo_4_65_hd-5206.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-465.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Touch Book 9.7",
+  "link" : "https://www.gsmarena.com/blu_touch_book_9_7-5205.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tb-971.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Touch Book 7.0 Plus",
+  "link" : "https://www.gsmarena.com/blu_touch_book_7_0_plus-5202.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tb-7-plus1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Touch Book 7.0 Lite",
+  "link" : "https://www.gsmarena.com/blu_touch_book_7_0_lite-5201.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tb-7-lite1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash 3.5",
+  "link" : "https://www.gsmarena.com/blu_dash_3_5-5023.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash-35.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Elite 3.8",
+  "link" : "https://www.gsmarena.com/blu_elite_3_8-4947.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-elite-38.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dash",
+  "link" : "https://www.gsmarena.com/blu_dash-4946.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dash.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Hero",
+  "link" : "https://www.gsmarena.com/blu_hero-4945.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-hero.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Jenny TV",
+  "link" : "https://www.gsmarena.com/blu_jenny_tv-4944.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-jenny-tv.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vivo 4.3",
+  "link" : "https://www.gsmarena.com/blu_vivo_4_3-4901.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vivo-4.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tank",
+  "link" : "https://www.gsmarena.com/blu_tank-4853.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tank.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Jenny",
+  "link" : "https://www.gsmarena.com/blu_jenny-4852.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-jenny.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Studio 5.3",
+  "link" : "https://www.gsmarena.com/blu_studio_5_3-4370.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-studio-5.3.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Touch Book 7.0",
+  "link" : "https://www.gsmarena.com/blu_touch_book_7_0-4224.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-touch-book-70.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Neo Pro",
+  "link" : "https://www.gsmarena.com/blu_neo_pro-4195.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-neo-slide.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Neo XT",
+  "link" : "https://www.gsmarena.com/blu_neo_xt-4162.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-neo-xt.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Neo",
+  "link" : "https://www.gsmarena.com/blu_neo-4163.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-neo-new.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Deco Pro",
+  "link" : "https://www.gsmarena.com/blu_deco_pro-4165.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-deco-pro.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Deco XT",
+  "link" : "https://www.gsmarena.com/blu_deco_xt-4166.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-deco-xt.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Deco",
+  "link" : "https://www.gsmarena.com/blu_deco-4167.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-deco.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Deco Mini",
+  "link" : "https://www.gsmarena.com/blu_deco_mini-4168.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-deco-mini.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Electro",
+  "link" : "https://www.gsmarena.com/blu_electro-4169.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-electro.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Deejay Touch",
+  "link" : "https://www.gsmarena.com/blu_deejay_touch-4171.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-deejay-touch.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Spark",
+  "link" : "https://www.gsmarena.com/blu_spark-4170.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-spark.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Deejay Flip",
+  "link" : "https://www.gsmarena.com/blu_deejay_flip-4172.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-deejay-flip.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tattoo Mini",
+  "link" : "https://www.gsmarena.com/blu_tattoo_mini-4173.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tattoo-mini.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Samba Elite",
+  "link" : "https://www.gsmarena.com/blu_samba_elite-4174.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-samba-elite.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Samba JR",
+  "link" : "https://www.gsmarena.com/blu_samba_jr-4175.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-samba-jr.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Lindy",
+  "link" : "https://www.gsmarena.com/blu_lindy-4176.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-lindy.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Swing",
+  "link" : "https://www.gsmarena.com/blu_swing-4177.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-swing.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Bar Q",
+  "link" : "https://www.gsmarena.com/blu_bar_q-4178.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-bar-q.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Magic",
+  "link" : "https://www.gsmarena.com/blu_magic-3854.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-magic.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Touch",
+  "link" : "https://www.gsmarena.com/blu_touch-3855.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-touch.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Diesel 3G",
+  "link" : "https://www.gsmarena.com/blu_diesel_3g-3856.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-diesel.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Deejay II",
+  "link" : "https://www.gsmarena.com/blu_deejay_ii-3857.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-deejay-q.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Samba Q",
+  "link" : "https://www.gsmarena.com/blu_samba_q-3858.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-samba-q.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Ultra",
+  "link" : "https://www.gsmarena.com/blu_ultra-3859.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-ultra-100.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tango",
+  "link" : "https://www.gsmarena.com/blu_tango-3548.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/tango.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Speed",
+  "link" : "https://www.gsmarena.com/blu_speed-3549.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-speed.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Smart",
+  "link" : "https://www.gsmarena.com/blu_smart-3550.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-smart.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Cubo",
+  "link" : "https://www.gsmarena.com/blu_cubo-3551.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-cubo.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Flash",
+  "link" : "https://www.gsmarena.com/blu_flash-3552.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-flash.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Samba Mini",
+  "link" : "https://www.gsmarena.com/blu_samba_mini-3553.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-samba-mini.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Samba",
+  "link" : "https://www.gsmarena.com/blu_samba-3567.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-samba.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tattoo",
+  "link" : "https://www.gsmarena.com/blu_tattoo-3568.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tattoo.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Tattoo TV",
+  "link" : "https://www.gsmarena.com/blu_tattoo_tv-3569.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tattoo-tv.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Disco2GO II",
+  "link" : "https://www.gsmarena.com/blu_disco2go_ii-3560.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-disco2go-ii.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Deejay",
+  "link" : "https://www.gsmarena.com/blu_deejay-3561.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-deejay.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Click",
+  "link" : "https://www.gsmarena.com/blu_click-3562.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-click.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Brilliant",
+  "link" : "https://www.gsmarena.com/blu_brilliant-3563.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-brilliant1-2.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Slim TV",
+  "link" : "https://www.gsmarena.com/blu_slim_tv-3564.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-slim-tv.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "TV2Go Lite",
+  "link" : "https://www.gsmarena.com/blu_tv2go_lite-3565.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tv2go-lite.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "TV2Go",
+  "link" : "https://www.gsmarena.com/blu_tv2go-3566.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-tv2go.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Texting 2 GO",
+  "link" : "https://www.gsmarena.com/blu_texting_2_go-3572.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-texting2go.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "EZ2Go",
+  "link" : "https://www.gsmarena.com/blu_ez2go-3570.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-ez2go.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Kick",
+  "link" : "https://www.gsmarena.com/blu_kick-3571.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-kick.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Vida1",
+  "link" : "https://www.gsmarena.com/blu_vida1-3573.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-vida1.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Gol",
+  "link" : "https://www.gsmarena.com/blu_gol-3574.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-gol.jpg",
+  "info" : { },
+  "brand" : "BLU"
+}, {
+  "name" : "Dual SIM Lite",
+  "link" : "https://www.gsmarena.com/blu_dual_sim_lite-3575.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/blu-dualsim-lite.jpg",
+  "info" : { },
+  "brand" : "BLU"
+} ]

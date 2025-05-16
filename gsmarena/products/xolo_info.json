@@ -1,0 +1,487 @@
+[ {
+  "name" : "Era 2X",
+  "link" : "https://www.gsmarena.com/xolo_era_2x-8520.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-2x.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Era 2",
+  "link" : "https://www.gsmarena.com/xolo_era_2-8395.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-2.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Era 1X",
+  "link" : "https://www.gsmarena.com/xolo_era_1x-8339.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-1x.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Era X",
+  "link" : "https://www.gsmarena.com/xolo_era_x-7959.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-x.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Era 4K",
+  "link" : "https://www.gsmarena.com/xolo_era_4k-7958.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-4k.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Era 4G",
+  "link" : "https://www.gsmarena.com/xolo_era_4g-7929.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-era-4g-.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "One HD",
+  "link" : "https://www.gsmarena.com/xolo_one_hd-7872.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-one-hd.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Black 3GB",
+  "link" : "https://www.gsmarena.com/xolo_black_3gb-7871.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-black-3gb.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Black 1X",
+  "link" : "https://www.gsmarena.com/xolo_black_1x-7729.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-black-1x.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Black",
+  "link" : "https://www.gsmarena.com/xolo_black-7399.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-black-2015.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Era",
+  "link" : "https://www.gsmarena.com/xolo_era-7400.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-era.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Cube 5.0",
+  "link" : "https://www.gsmarena.com/xolo_cube_5_0-7311.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-cube-5.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Prime",
+  "link" : "https://www.gsmarena.com/xolo_prime-7244.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-prime.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "LT2000",
+  "link" : "https://www.gsmarena.com/xolo_lt2000-7131.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-2000.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A1010",
+  "link" : "https://www.gsmarena.com/xolo_a1010-7107.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-1010.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Win Q1000",
+  "link" : "https://www.gsmarena.com/xolo_win_q1000-7065.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "8X-1020",
+  "link" : "https://www.gsmarena.com/xolo_8x_1020-7064.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-8x-1020.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q700 Club",
+  "link" : "https://www.gsmarena.com/xolo_q700_club-7009.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-700.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q520s",
+  "link" : "https://www.gsmarena.com/xolo_q520s-7010.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-520s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q900s Plus",
+  "link" : "https://www.gsmarena.com/xolo_q900s_plus-6887.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900s-plus.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Omega 5.5",
+  "link" : "https://www.gsmarena.com/xolo_omega_5_5-6851.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-omega-55.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Omega 5.0",
+  "link" : "https://www.gsmarena.com/xolo_omega_5_0-6850.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-omega-5.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Opus 3",
+  "link" : "https://www.gsmarena.com/xolo_opus_3-6844.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-opus-3.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q710s",
+  "link" : "https://www.gsmarena.com/xolo_q710s-6843.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q710s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1020",
+  "link" : "https://www.gsmarena.com/xolo_q1020-6793.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1020.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "One",
+  "link" : "https://www.gsmarena.com/xolo_one-6743.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-one.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q2100",
+  "link" : "https://www.gsmarena.com/xolo_q2100-6735.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q2100.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Opus HD",
+  "link" : "https://www.gsmarena.com/xolo_opus_hd-6734.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-opus-hd.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Play 8X-1100",
+  "link" : "https://www.gsmarena.com/xolo_play_8x_1100-6652.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-8x-1100.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q510s",
+  "link" : "https://www.gsmarena.com/xolo_q510s-6626.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q510s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q700s plus",
+  "link" : "https://www.gsmarena.com/xolo_q700s_plus-6624.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q700s-plus.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1000s plus",
+  "link" : "https://www.gsmarena.com/xolo_q1000s_plus-6623.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000s-plus.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q610s",
+  "link" : "https://www.gsmarena.com/xolo_q610s-6622.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q610s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A1000s",
+  "link" : "https://www.gsmarena.com/xolo_a1000s-6577.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-a1000s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Play 8X-1200",
+  "link" : "https://www.gsmarena.com/xolo_play_8x_1200-6564.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-8x-1200.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Hive 8X-1000",
+  "link" : "https://www.gsmarena.com/xolo_hive_8x_1000-6556.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/XOLO-8X-1000.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A550S IPS",
+  "link" : "https://www.gsmarena.com/xolo_a550s_ips-6551.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-a550s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q900s",
+  "link" : "https://www.gsmarena.com/xolo_q900s-6531.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q500s IPS",
+  "link" : "https://www.gsmarena.com/xolo_q500s_ips-6525.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q500s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A700s",
+  "link" : "https://www.gsmarena.com/xolo_a700s-6522.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-a700s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Play 6X-1000",
+  "link" : "https://www.gsmarena.com/xolo_play_6x_1000-6494.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-play-1000.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q2000L",
+  "link" : "https://www.gsmarena.com/xolo_q2000l-6495.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q2000l.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Win Q900s",
+  "link" : "https://www.gsmarena.com/xolo_win_q900s-6476.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900s-win.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1000 Opus2",
+  "link" : "https://www.gsmarena.com/xolo_q1000_opus2-6477.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000-opus2-new.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1011",
+  "link" : "https://www.gsmarena.com/xolo_q1011-6462.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1011.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1200",
+  "link" : "https://www.gsmarena.com/xolo_q1200-6430.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1200.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q600s",
+  "link" : "https://www.gsmarena.com/xolo_q600s-6416.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q600s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A500S Lite",
+  "link" : "https://www.gsmarena.com/xolo_a500s_lite-6402.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500s-lite.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q900T",
+  "link" : "https://www.gsmarena.com/xolo_q900t-6347.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900t.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1010i",
+  "link" : "https://www.gsmarena.com/xolo_q1010i-6275.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1010i.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A510s",
+  "link" : "https://www.gsmarena.com/xolo_a510s-6257.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-a510s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q2500",
+  "link" : "https://www.gsmarena.com/xolo_q2500-6256.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q2500.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A500 Club",
+  "link" : "https://www.gsmarena.com/xolo_a500_club-6051.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1010",
+  "link" : "https://www.gsmarena.com/xolo_q1010-6050.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1010.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1100",
+  "link" : "https://www.gsmarena.com/xolo_q1100-6042.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-q1100.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q700s",
+  "link" : "https://www.gsmarena.com/xolo_q700s-5974.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q700s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q3000",
+  "link" : "https://www.gsmarena.com/xolo_q3000-5927.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q3000.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "LT900",
+  "link" : "https://www.gsmarena.com/xolo_lt900-5923.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-lt900.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1000 Opus",
+  "link" : "https://www.gsmarena.com/xolo_q1000_opus-5906.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000-opus.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Play Tegra Note",
+  "link" : "https://www.gsmarena.com/xolo_play_tegra_note-5890.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-tegra.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q500",
+  "link" : "https://www.gsmarena.com/xolo_q500-5877.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q500.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q800 X-Edition",
+  "link" : "https://www.gsmarena.com/xolo_q800_x_edition-5845.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q800x.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A500S IPS",
+  "link" : "https://www.gsmarena.com/xolo_a500s_ips-5839.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-a500s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q2000",
+  "link" : "https://www.gsmarena.com/xolo_q2000-5837.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-q2000.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q900",
+  "link" : "https://www.gsmarena.com/xolo_q900-5822.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q900.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A600",
+  "link" : "https://www.gsmarena.com/xolo_a600-5821.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-a600.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A500L",
+  "link" : "https://www.gsmarena.com/xolo_a500l-5787.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500l.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q700i",
+  "link" : "https://www.gsmarena.com/xolo_q700i-5768.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q700i.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Play Tab 7.0",
+  "link" : "https://www.gsmarena.com/xolo_play_tab_7_0-5767.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-play-tab.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Tab",
+  "link" : "https://www.gsmarena.com/xolo_tab-5686.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-tab-1.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1000s",
+  "link" : "https://www.gsmarena.com/xolo_q1000s-5642.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-q1000s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A500S",
+  "link" : "https://www.gsmarena.com/xolo_a500s-5613.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-a500s.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Play",
+  "link" : "https://www.gsmarena.com/xolo_play-5591.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/xolo-play.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q600",
+  "link" : "https://www.gsmarena.com/xolo_q600-5558.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-xolo-q600.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "X1000",
+  "link" : "https://www.gsmarena.com/xolo_x1000-5532.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-x1000.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "X910",
+  "link" : "https://www.gsmarena.com/xolo_x910-5535.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-x910.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "X500",
+  "link" : "https://www.gsmarena.com/xolo_x500-5530.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-x500.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q1000",
+  "link" : "https://www.gsmarena.com/xolo_q1000-5533.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-q1000.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q800",
+  "link" : "https://www.gsmarena.com/xolo_q800-5531.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-q800.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "Q700",
+  "link" : "https://www.gsmarena.com/xolo_q700-5534.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-q700.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+}, {
+  "name" : "A500",
+  "link" : "https://www.gsmarena.com/xolo_a500-5529.php",
+  "imgUrl" : "https://fdn2.gsmarena.com/vv/bigpic/lava-a500.jpg",
+  "info" : { },
+  "brand" : "XOLO"
+} ]
