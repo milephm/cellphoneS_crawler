@@ -29,7 +29,7 @@ public class CrawlerInfo {
         // example: extract title
 
         String title = (driver.findElement(By.className("box-product-name"))).getDomProperty("textContent");
-        if(title != null) {
+        if (title != null) {
             title = title.replace(" | Chính hãng VN/A ", "");
             title = title.trim();
             //productData.put("name", title);
@@ -104,11 +104,4 @@ public class CrawlerInfo {
         mapper.writerWithDefaultPrettyPrinter().writeValue(file, products);
         System.out.println("Data successfully exported to " + fileName);
     }
-
-//    public static void exportToJson(List<Map<String, String>> productsData, String fileName) throws IOException {
-//        ObjectMapper mapper = new ObjectMapper();
-//        File file = new File(fileName);
-//        mapper.writerWithDefaultPrettyPrinter().writeValue(file, productsData);  // format JSON
-//        System.out.println("Data successfully exported to " + fileName);
-//    }
 }

@@ -1,7 +1,9 @@
 package nguvihuong.utils;
 
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import nguvihuong.model.Product;
 
 import java.io.File;
 import java.io.IOException;
@@ -20,5 +22,10 @@ public class JSONReader {
             }
         }
         return urls;
+    }
+
+    public static List<Product> readProducts(String path) throws IOException {
+        ObjectMapper mapper = new ObjectMapper();
+        return mapper.readValue(new File(path), new TypeReference<List<Product>>() {});
     }
 }
