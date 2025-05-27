@@ -35,6 +35,9 @@ public class Crawler {
         );
 
         // Set<String> crawledProductNames = new HashSet<>();
+        String rating = "";
+        String ratingCount = "";
+        List<String> comments = new ArrayList<>();
 
         for (Element product : products) {
             String name = "";
@@ -67,20 +70,20 @@ public class Crawler {
 
             Map<String, String> description = new LinkedHashMap<>();
 
-            // add info
-            productInfo.add(new Product(name, link, price, description));
-
             // get image
             Elements img_elements = product.select("div.product__image img.product__img");
-            String imgUrl = img_elements.attr("src");
+            String imgURL = img_elements.attr("src").replace("https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/","");
 
-            String imgName = name.replaceAll("[^a-zA-Z0-9.-]", "_") + ".png";
-            String imgPath = savePath + "/" + imgName;
-            try {
-                downloadImage(imgUrl, imgPath);
-            } catch (IOException e) {
-                throw new RuntimeException(e);
-            }
+//            String imgName = name.replaceAll("[^a-zA-Z0-9.-]", "_") + ".png";
+//            String imgPath = savePath + "/" + imgName;
+//            try {
+//                downloadImage(imgURL, imgPath);
+//            } catch (IOException e) {
+//                throw new RuntimeException(e);
+//            }
+
+            // add info
+            productInfo.add(new Product(name, link, imgURL, price, rating, ratingCount, comments, description));
         }
     }
 
@@ -109,13 +112,13 @@ public class Crawler {
         jsonExporter.writeJSON(linkList, filename + "_links");
     }
 
-    public static void downloadImage(String imgUrl, String imgPath) throws IOException {
-        HttpURLConnection connection = getHttpURLConnection(imgUrl);
+    public static void downloadImage(String imgURL, String imgPath) throws IOException {
+        HttpURLConnection connection = getHttpURLConnection(imgURL);
 
         // check if connection was successful
         int responseCode = connection.getResponseCode();
         if (responseCode != 200) {
-            System.err.println("Failed to download image from " + imgUrl + ". Response code: " + responseCode);
+            System.err.println("Failed to download image from " + imgURL + ". Response code: " + responseCode);
             return;
         }
 
@@ -130,8 +133,8 @@ public class Crawler {
         }
     }
 
-    private static HttpURLConnection getHttpURLConnection(String imgUrl) throws IOException {
-        URL url = new URL(imgUrl);
+    private static HttpURLConnection getHttpURLConnection(String imgURL) throws IOException {
+        URL url = new URL(imgURL);
 
         HttpURLConnection connection = (HttpURLConnection) url.openConnection();
         connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36");

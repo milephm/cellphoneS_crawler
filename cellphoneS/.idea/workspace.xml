@@ -6,19 +6,39 @@
   <component name="ChangeListManager">
     <list default="true" id="b81b6cd7-c4ce-436d-85bf-debfeb0977fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/Products_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products_links.json" beforeDir="false" afterPath="$PROJECT_DIR$/Products_links.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nguvihuong/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nguvihuong/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nguvihuong/crawler/Crawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nguvihuong/crawler/Crawler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nguvihuong/crawler/CrawlerInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nguvihuong/crawler/CrawlerInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gsmarena/Products_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../gsmarena/Products_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gsmarena/Products_links.json" beforeDir="false" afterPath="$PROJECT_DIR$/../gsmarena/Products_links.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gsmarena/gsmarena/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gsmarena/gsmarena/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gsmarena/gsmarena/src/main/java/nguvihuong/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gsmarena/gsmarena/src/main/java/nguvihuong/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gsmarena/gsmarena/src/main/java/nguvihuong/crawler/CrawlInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gsmarena/gsmarena/src/main/java/nguvihuong/crawler/CrawlInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gsmarena/gsmarena/src/main/java/nguvihuong/crawler/CrawlLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gsmarena/gsmarena/src/main/java/nguvihuong/crawler/CrawlLink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gsmarena/gsmarena/src/main/java/nguvihuong/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gsmarena/gsmarena/src/main/java/nguvihuong/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nguvihuong/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nguvihuong/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/Masstel_Izi_50_4G.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/Masstel_Izi_50_4G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/Nubia_Neo_3_4G_8GB_128GB.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/Nubia_Neo_3_4G_8GB_128GB.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/OPPO_FIND_N5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/OPPO_FIND_N5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/OPPO_Find_N4_Flip.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/OPPO_Find_N4_Flip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/OPPO_K11x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/OPPO_K11x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/Samsung_Galaxy_S25_512GB.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/Samsung_Galaxy_S25_512GB.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/Vivo_Y52s.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/Vivo_Y52s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/Vivo_Y56.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/Vivo_Y56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/Vivo_Y77e_5G.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/Vivo_Y77e_5G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/Xiaomi_14T_12GB_512GB.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/Xiaomi_14T_12GB_512GB.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/Xiaomi_Civi_1S.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/Xiaomi_Civi_1S.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/Xiaomi_Redmi_Note_13_Pro_5G.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/Xiaomi_Redmi_Note_13_Pro_5G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/masstel_izi_12_4g.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/masstel_izi_12_4g.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/products/realme_GT6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/products/realme_GT6.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -45,12 +65,18 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Run.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/study/hust/20242/oop_project/crawler/cellphoneS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -107,8 +133,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
       </set>
     </attachedChunks>
   </component>
@@ -132,6 +158,22 @@
       <workItem from="1745775609585" duration="1000" />
       <workItem from="1745842128226" duration="32000" />
       <workItem from="1746179328080" duration="16000" />
+      <workItem from="1747409305558" duration="184000" />
+      <workItem from="1747492721195" duration="7494000" />
+      <workItem from="1747536870257" duration="2094000" />
+      <workItem from="1747585437456" duration="3331000" />
+      <workItem from="1747655758135" duration="26000" />
+      <workItem from="1747665145326" duration="5057000" />
+      <workItem from="1747670265090" duration="795000" />
+      <workItem from="1747671071373" duration="556000" />
+      <workItem from="1747671645852" duration="313000" />
+      <workItem from="1747671966375" duration="3207000" />
+      <workItem from="1747798097718" duration="80000" />
+      <workItem from="1747798855730" duration="730000" />
+      <workItem from="1748053839137" duration="80000" />
+      <workItem from="1748368698704" duration="12000" />
+      <workItem from="1748369252461" duration="470000" />
+      <workItem from="1748369804080" duration="54000" />
     </task>
     <servers />
   </component>

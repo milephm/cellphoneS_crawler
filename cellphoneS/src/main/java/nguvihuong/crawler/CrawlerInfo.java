@@ -7,6 +7,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.LinkedHashMap;
@@ -16,26 +17,18 @@ import java.io.*;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class CrawlerInfo {
-    //private static final List<Map<String, String>> productsData = new ArrayList<>();
-
-    // List<Product> productInfo
     public static void crawl(WebDriver driver, String url, List<Product> productInfo) {
         System.out.println("=====================================");
 
         driver.get(url);
 
-        //Map<String, String> productData = new LinkedHashMap<>();
-
         // example: extract title
-
         String title = (driver.findElement(By.className("box-product-name"))).getDomProperty("textContent");
         if (title != null) {
-            title = title.replace(" | Chính hãng VN/A ", "");
-            title = title.trim();
-            //productData.put("name", title);
+            title = title.replace(" | Chính hãng VN/A ", "").trim();
         }
+
         try {
-            // ((JavascriptExecutor) driver).executeScript("window.scrollTo(0, document.body.scrollHeight/3);");
             if (!(driver.findElements(By.cssSelector(".box-more-promotion-title"))).isEmpty()) {
                 ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView();", (driver.findElement(By.cssSelector(".box-more-promotion-title"))));
                 Thread.sleep(500);
@@ -54,6 +47,33 @@ public class CrawlerInfo {
             System.out.println("got interrupted!");
         }
 
+        String rating = "";
+        String ratingCount = "";
+        List<String> comments = new ArrayList<>();
+
+        try {
+            // get rating score
+            rating = driver.findElement(By.cssSelector(".title.is-4.m-0.p-0")).getText();
+            System.out.println("Rating: " + rating);
+
+            // get number of ratings
+            ratingCount = driver.findElement(By.className("boxReview-score__count")).getText();
+            System.out.println("Number of Ratings: " + ratingCount);
+
+            // get top comments
+            List<WebElement> commentEls = driver.findElements(By.className("comment-content"));
+            System.out.println("Comments:");
+            for (WebElement el : commentEls) {
+                String text = el.getText().trim();
+                if (!text.isEmpty()) {
+                    comments.add(text);
+                    System.out.println("- " + text);
+                }
+            }
+        } catch (Exception e) {
+            System.out.println("Rating, rating count, or comments not found");
+        }
+
         Map<String, String> description = new LinkedHashMap<>();
 
         // example: extract specific element
@@ -65,18 +85,13 @@ public class CrawlerInfo {
             String pText = pElement.getDomProperty("textContent").replace(".", "_");
             String divText = divOrAElement.getDomProperty("textContent");
             description.put(pText, divText);
-            //productData.put(pText, divText);
         }
-//        productsData.add(productData);
-//
-//        try {
-//            exportToJson(productsData, "Products_data.json");
-//        } catch (IOException e) {
-//            System.err.println("Failed to export data to JSON: " + e.getMessage());
-//        }
 
         for (Product product : productInfo) {
             if (product.getName().equals(title)) {
+                product.setRating(rating);
+                product.setRatingCount(ratingCount);
+                product.setComments(comments);
                 for (Map.Entry<String, String> entry : description.entrySet()) {
                     product.setDescription(entry.getKey(), entry.getValue());
                 }
@@ -92,6 +107,7 @@ public class CrawlerInfo {
         List<Map<String, Object>> products = mapper.readValue(file, List.class);
         for (int i = 0; i < products.size(); i++) {
             Map<String, Object> product = products.get(i);
+            Product p = productInfo.get(i);
 
             // check if the product contains a "description" field
             if (product.get("description") == null || ((Map<?, ?>) product.get("description")).isEmpty()) {
@@ -100,6 +116,9 @@ public class CrawlerInfo {
                     product.put("description", description);
                 }
             }
+            product.put("rating", p.getRating());
+            product.put("ratingCount", p.getRatingCount());
+            product.put("comments", p.getComments());
         }
         mapper.writerWithDefaultPrettyPrinter().writeValue(file, products);
         System.out.println("Data successfully exported to " + fileName);
